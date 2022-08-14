@@ -1,0 +1,67 @@
+.car{
+    margin-bottom: 5em;
+}
+.car-img{
+    width: 40%;
+    border-radius: 50%;
+    margin-left: 31%;
+    position: relative;
+}
+.car-img img{
+    border-radius: 7em;
+    cursor: pointer;
+    background-color: white;
+}
+.car-detail{
+    border:2px solid #F28123;
+    border-radius: 9px;
+    margin-top: -10%;
+    padding-top: 3em;
+}
+.car-width{
+    width: 80%;
+    margin-left: 11%;
+    text-align: center;
+}
+.car-width>button{
+    background-color: #666666;
+    margin-bottom: 2em;
+    border: none;
+    padding:7px 1.5em;
+    color: #fff;
+    font-weight: 1em;
+}
+.dbtn{
+    background-color: #666666;
+    border: none;
+    color: #fff;
+}
+.car-width>button:hover,.dbtn:hover,.car-width>button:active,.dbtn:active{
+    background-color: #F28123;
+    border: none;
+    transition: 1s;
+}
+.address{
+    font-size:1em;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-bottom: 9px;
+}
+.car-info{
+    font-size:15px;
+    color: #666666;
+    font-family: sans-serif;
+    margin-top: 1.9em;  
+    line-height: 1.7;
+    font-weight: 400;
+    margin-bottom: 18%;
+}
+.file>.form-control{
+    padding: 3px;
+}
+.img>img{
+    width: 100px;
+    height: 100px;
+    margin: 3px;
+    display: inline;
+}

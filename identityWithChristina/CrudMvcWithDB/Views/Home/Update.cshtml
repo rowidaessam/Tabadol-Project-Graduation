@@ -1,0 +1,34 @@
+﻿@model Student
+
+@{
+    ViewData["Title"] = "Update";
+    Layout = "~/Views/Shared/MyLayout.cshtml";
+}
+
+<form method="post">
+  <div class="text-white form-group">
+    <label asp-for="Fname">first name</label>
+    <input asp-for="Fname" class="form-control" aria-describedby="emailHelp" placeholder="@Model.Fname">
+
+     <label asp-for="Lname">last name</label>
+    <input asp-for="Lname" class="form-control" aria-describedby="emailHelp" placeholder="@Model.Lname">
+      
+    <label asp-for="Age">age</label>
+    <input asp-for="Age" class="form-control" aria-describedby="emailHelp" placeholder="@Model.Age">
+
+     <label asp-for="phone"></label>
+    <input asp-for="phone" class="form-control" aria-describedby="emailHelp" placeholder="@Model.phone">
+
+    <label asp-for="address">address</label>
+    <input asp-for="address" class="form-control" aria-describedby="emailHelp" placeholder="@Model.address">
+
+  
+    <partial name="partial-list"  class="form-control"/>
+   <br/>
+  <button type="submit"  asp-controller="Home" asp-action="Update">update</button>
+</form>
+
+
+     @section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+    }

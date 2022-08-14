@@ -1,0 +1,45 @@
+﻿@model  List<Student>
+@{
+    ViewBag.title = "studnts";
+    Layout = "~/Views/Shared/MyLayout.cshtml";
+}
+
+<table  class="text-white table table-hover">
+  <thead>
+    <tr>
+      <th scope="col">Id</th>
+      <th scope="col">Name</th>
+      <th scope="col">Address</th>
+      <th scope="col">Age</th>
+      <th scope="col">Depatment</th>
+      <th scope="col">Details</th>
+      <th scope="col">delete</th>
+      <th scope="col">edit</th>
+    </tr>
+  </thead>
+  <tbody>
+      @foreach( var st in Model){
+    <tr>
+      <th scope="row">@st.ID</th>
+      <td>@st.Fname</td>
+      <td>@st.address</td>
+      <td>@st.Age</td>
+      <td>@st.Department.Name</td>
+
+     @*asp-Controller="home" asp-Action="Update/@st.ID"*@
+
+
+      <td> <a asp-Controller="home" asp-Action="details" asp-route-id=@st.ID style="padding :8px;"  class="link-info">details</a></td>
+      <td><a  asp-Controller="home" asp-Action="delete" asp-route-id=@st.ID style="padding :8px;"  class="link-danger">delete</a></td>
+      <td><a href="/home/update?ID=@st.ID"  style="padding :8px;"  class="link-warning">update</a></td>
+    </tr>
+   }
+  </tbody>
+</table>
+
+ <div>
+        <a href="/home/create">
+          add More
+        </a>
+      </div>
+

@@ -1,0 +1,77 @@
+﻿@model Student
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/MyLayout.cshtml";
+}
+
+
+ @* <section class="why_section layout_padding">*@
+    <div class="container">
+      <div class="custom_heading-container">
+        <h2>
+          @Model.Fname  @Model.Lname
+        </h2>
+      </div>
+      <div class="content-container">
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+          magna aliqua. Ut enim ad minim veniam, quis
+        </p>
+        <div class="row">
+          <div class="col-md-3 col-sm-6">
+            <div class="img-box">
+              <img src="images/smiley.png" alt=""/>
+            </div>
+            <div class="detail-box">
+              <h3>
+              age
+              </h3>
+              <h6>
+              @Model.Age
+              </h6>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <div class="img-box">
+              <img src="images/monitor.png" alt=""/>
+            </div>
+            <div class="detail-box">
+              <h3>
+               Address
+              </h3>
+              <h6>
+                @Model.address
+              </h6>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <div class="img-box">
+              <img src="images/multiple-users-silhouette.png" alt=""/>
+            </div>
+            <div class="detail-box">
+              <h3>
+              phone
+              </h3>
+              <h6>
+              @Model.phone
+              </h6>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <div class="img-box">
+              <img src="images/bar-chart.png" alt=""/>
+            </div>
+            <div class="detail-box">
+              <h3>
+                Department
+              </h3>
+              <h6>
+               @Model.Department.Name
+              </h6>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+ @* </section>*@
+

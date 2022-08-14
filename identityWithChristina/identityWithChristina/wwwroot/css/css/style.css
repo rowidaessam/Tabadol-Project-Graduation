@@ -1,0 +1,32 @@
+body{
+    color: olive;
+}
+.single-product-item {
+    height: 300px;
+    width:300px;
+    
+    border-radius: 50%;
+}
+.product-image > a > img {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    -webkit-filter: grayscale(0.5);
+    filter: grayscale(0.5);
+    transition: all 100ms ease-out;
+    border: 2px solid #F28123;
+}
+.product-image > a > img:hover {
+    height: 320px;
+    width: 320px;
+    border-radius: 50%;
+    transform: scale(1.04);
+    -webkit-filter: grayscale(0);
+    filter: grayscale(0);
+    box-shadow: 0px 0px 10px 5px #F28123 ;
+    
+}
+
+        
+
+           
