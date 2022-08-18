@@ -24,6 +24,16 @@
 	<!-- title -->
 	<title> @ViewBag.Title</title>
 
+
+	<!-- from _layout-->
+	    <title>@ViewData["Title"] - identityWithChristina</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/identityWithChristina.styles.css" asp-append-version="true" />
+	<!-- from _layout-->
+
+
+
 	<!-- favicon -->
 	<link rel="shortcut icon" type="image/png" href="~/css/img/">
 	<!-- google font -->
@@ -83,17 +93,85 @@
 								<li><a href="products.html">Products</a></li>
 								<li><a href="donate.html">Donate</a></li>
 								<li><a href="contact.html">Contact Us</a></li>
-								<li><a href="feedback.html">Feedback</a></li>
+								<li><a asp-controller="GeneralFeedbacks" asp-action="Create">Feedback</a></li>
 								<li>
 									<div class="header-icons">
 										<a class="shopping-cart" href="cart.html"><i class="fas fa-shopping-cart"></i></a>
 										<a class="mobile-hide search-bar-icon" href="#"><i class="fas fa-search"></i></a>
-                                        <!-- <a class="Profile-pic" href="#"><i class="fa fa-user" aria-hidden="true"></i></a> -->
+                                        <a class="Profile-pic" a asp-controller="User">
+											<i class="fa fa-user" aria-hidden="true"></i>
+											</a> 
                                         <a data-toggle="dropdown" class="fa fa-user" aria-hidden="true">  
+
+
+
+
+											
+											 @if (User.Identity.IsAuthenticated == false) { 
+
+                    
+                     
+                            <a class="dropdown-item" asp-area="" asp-controller="Account" asp-action="Registration">Registration</a>
+                       
+                     
+                            <a class="dropdown-item" asp-area="" asp-controller="Account" asp-action="Login">Login</a>
+                      
+                       
+                        }else{
+                             
+                       
+                            <a class="dropdown-item" asp-area="" asp-controller="Account" asp-action="Logout">Logout</a>
+                       
+                     
+                            <label class="nav-link text-dark" >welcome: @User.Identity.Name</label>
+                       
+                    
+                        }
+
+
+
+
+
                                         <div class="dropdown-menu">  
                                             <a class="dropdown-item" href="#"> Your Profile </a>  
                                             <a class="dropdown-item" href="#"> setting </a>  
                                             <a class="dropdown-item" href="#"> Log out </a>  
+
+
+
+
+
+
+
+
+
+											 @if (User.Identity.IsAuthenticated == false) { 
+
+                    
+                     
+                            <a class="dropdown-item" asp-area="" asp-controller="Account" asp-action="Registration">Registration</a>
+                       
+                     
+                            <a class="dropdown-item" asp-area="" asp-controller="Account" asp-action="Login">Login</a>
+                      
+                       
+                        }else{
+                             
+                       
+                            <a class="dropdown-item" asp-area="" asp-controller="Account" asp-action="Logout">Logout</a>
+                       
+                     
+                            <label class="nav-link text-dark" >welcome: @User.Identity.Name</label>
+                       
+                    
+                        }
+
+
+
+
+
+
+
                                         </div>  
                
 									</div>
@@ -187,7 +265,9 @@
 		</div>
 	</div>
 	<!-- end footer -->
-	
+	<script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
 	
 	<!-- jquery -->
 	<script src="~/js/jquery-1.11.3.min.js"></script>
@@ -209,6 +289,6 @@
 	<script src="~/js/sticker.js"></script>
 	<!-- main js -->
 	<script src="~/js/main.js"></script>
-
+	  @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

@@ -31,7 +31,6 @@ namespace identityWithChristina.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("City")
-                        .IsRequired()
                         .HasMaxLength(50)
                         .HasColumnType("nvarchar(50)");
 
@@ -40,7 +39,6 @@ namespace identityWithChristina.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Country")
-                        .IsRequired()
                         .HasMaxLength(50)
                         .HasColumnType("nvarchar(50)");
 
@@ -52,12 +50,10 @@ namespace identityWithChristina.Migrations
                         .HasColumnType("bit");
 
                     b.Property<string>("Gender")
-                        .IsRequired()
                         .HasMaxLength(20)
                         .HasColumnType("nvarchar(20)");
 
                     b.Property<string>("Lname")
-                        .IsRequired()
                         .HasMaxLength(50)
                         .HasColumnType("nvarchar(50)")
                         .HasColumnName("LName");
@@ -76,7 +72,7 @@ namespace identityWithChristina.Migrations
                         .HasMaxLength(256)
                         .HasColumnType("nvarchar(256)");
 
-                    b.Property<int>("NumberOfExchanges")
+                    b.Property<int?>("NumberOfExchanges")
                         .HasColumnType("int");
 
                     b.Property<string>("PasswordHash")
@@ -88,7 +84,7 @@ namespace identityWithChristina.Migrations
                     b.Property<bool>("PhoneNumberConfirmed")
                         .HasColumnType("bit");
 
-                    b.Property<int>("Points")
+                    b.Property<int?>("Points")
                         .HasColumnType("int");
 
                     b.Property<string>("PostalCode")
@@ -96,7 +92,6 @@ namespace identityWithChristina.Migrations
                         .HasColumnType("nvarchar(50)");
 
                     b.Property<string>("ProfilePictureUrl")
-                        .IsRequired()
                         .HasMaxLength(200)
                         .HasColumnType("nvarchar(200)")
                         .HasColumnName("ProfilePictureURL");
@@ -104,12 +99,11 @@ namespace identityWithChristina.Migrations
                     b.Property<string>("SecurityStamp")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("Ssn")
+                    b.Property<int?>("Ssn")
                         .HasColumnType("int")
                         .HasColumnName("SSN");
 
                     b.Property<string>("Street")
-                        .IsRequired()
                         .HasMaxLength(50)
                         .HasColumnType("nvarchar(50)");
 

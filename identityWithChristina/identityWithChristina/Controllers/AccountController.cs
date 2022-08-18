@@ -53,7 +53,7 @@ namespace identityWithChristina.Controllers
         }
 
         // log IN
-        public IActionResult Login(string ReturnUrl="~/Departments")
+        public IActionResult Login(string ReturnUrl="~/Home")
         {
             ViewData["redirectUrl"] = ReturnUrl;
             return View();
@@ -74,7 +74,7 @@ namespace identityWithChristina.Controllers
                         await signInManager.PasswordSignInAsync(user, newLogging.Password, newLogging.IsPresist, false);
                     if (signInResult.Succeeded)
                     {
-                        return RedirectToAction("index", "Departments");
+                        return RedirectToAction("index", "Home");
                     }
                     else
                     {
@@ -95,6 +95,45 @@ namespace identityWithChristina.Controllers
           await signInManager.SignOutAsync();
             return View("Login");
         }
+
+        //addAdmin
+        public IActionResult AddAdmin()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> AddAdmin(RegisterAccountViewModel newAccount)
+        {
+            ApplicationUser us = new ApplicationUser();
+            us.UserName = newAccount.UserName;
+            us.Email = newAccount.Email;
+
+
+            IdentityResult r = await userManager.CreateAsync(us, newAccount.password);
+            if (r.Succeeded)
+            {
+
+                await userManager.AddToRoleAsync(us, "admin");
+                await signInManager.SignInAsync(us, false);
+                return RedirectToAction("Index", "Home");
+            }
+            else
+            {
+                foreach (var error in r.Errors)
+                {
+                    ModelState.AddModelError(string.Empty, error.Description);
+
+                }
+
+                return View(us);
+            }
+
+
+
+
+        }
+
 
     }
 }
