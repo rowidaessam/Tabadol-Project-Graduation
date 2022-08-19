@@ -30,7 +30,7 @@
           </div>
           <!--links-->
           <ul class="nav nav-pills nav-stacked">
-              <li class="active"><a href="#"> <i class="fa fa-user"></i> Profile</a></li>
+              <li class="active"><a href="#"> <i class="fa fa-user"></i> Profile</a></li><br>
               <li><a href="#"> <i class="fa fa-calendar"></i> Recent Activity <span class="label label-warning pull-right r-activity">9</span></a></li>
               <li><a asp-action="Edit" asp-controller="User"> <i class="fa fa-edit"></i> Edit profile</a></li>
           </ul>
@@ -77,13 +77,16 @@
                       <p><span>Country </span>: @Model.Country</p>
                   </div>
                   <div class="bio-row">
-                      <p><span>Birthday</span>: @Model.Email</p>
+                      <p><span>City </span>: @Model.City</p>
+                  </div>
+                  <div class="bio-row">
+                      <p><span>Birthday</span>: 6-jul-1993 </p>
                   </div>
                   <div class="bio-row">
                       <p><span>Occupation </span>: UI Designer</p>
                   </div>
                   <div class="bio-row">
-                      <p><span>Email </span>: jsmith@flatlab.com</p>
+                      <p><span>Email </span>: @Model.Email</p>
                   </div>
                   <div class="bio-row">
                       <p><span>Mobile </span>: @Model.PhoneNumber</p>

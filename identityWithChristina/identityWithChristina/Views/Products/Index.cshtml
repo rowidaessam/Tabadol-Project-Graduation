@@ -1,0 +1,80 @@
+﻿@using identityWithChristina.ViewModel
+@model CategoryProductViewModel
+
+@{
+    
+   Layout = "_Layout1";
+    ViewData["Title"] = "Products";
+}
+	<!-- breadcrumb-section -->
+	<div class="breadcrumb-section breadcrumb-bg">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-8 offset-lg-2 text-center">
+					<div class="breadcrumb-text">
+						<p>Find Your needs and Explore</p>
+						<h1>Products</h1>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- end breadcrumb section -->
+
+	<!-- products -->
+	<div class="product-section mt-150 mb-150">
+		<div class="container">
+			<div class="row">
+                <div class="col-md-12">
+                    <div class="product-filters">
+                        <ul>
+                            <li class="active" data-filter="*">All</li>
+							@foreach (var item in Model.Categories) {
+
+                               <li data-filter="">@Html.DisplayFor(modelItem => item.CategoryName)</li>
+							
+								
+							}
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            </div>
+            </div>
+            
+			@foreach (var item in Model.Products) 
+            {
+			<div class="row product-lists">
+                <div class="col-lg-4 col-md-6 text-center Electronics">
+					<div class="single-product-item">
+						<div class="product-image">
+							<a href=""><img src="@Url.Content(item.PhotoUrl)" alt=""></a>
+						</div>
+						<h3>@Html.DisplayFor(modelItem => item.ProductName)</h3>
+						<p class="product-price">@Html.DisplayFor(modelItem => item.Points) </p>
+						<a href="cart1.html" class="cart-btn"><i class="fas fa-shopping-cart"></i> Add to Cart</a>
+					</div>
+				</div>
+				</div>
+            }
+
+	<!-- end products -->
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Poppins:400,700&display=swap" rel="stylesheet">
+	<!-- fontawesome -->
+	<link rel="stylesheet" href="assets/css/all.min.css">
+	<!-- bootstrap -->
+	<link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+	<!-- owl carousel -->
+	<link rel="stylesheet" href="assets/css/owl.carousel.css">
+	<!-- magnific popup -->
+	<link rel="stylesheet" href="assets/css/magnific-popup.css">
+	<!-- animate css -->
+	<link rel="stylesheet" href="assets/css/animate.css">
+	<!-- mean menu css -->
+	<link rel="stylesheet" href="assets/css/meanmenu.min.css">
+	<!-- main style -->
+	<link rel="stylesheet" href="assets/css/main.css">
+	<!-- responsive -->
+	<link rel="stylesheet" href="assets/css/responsive.css">
+    <link rel="stylesheet" href="assets/css/products.css">

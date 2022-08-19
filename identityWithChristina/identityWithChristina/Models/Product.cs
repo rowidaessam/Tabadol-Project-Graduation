@@ -26,7 +26,7 @@ namespace identityWithChristina.Models
         [Required(ErrorMessage = "Enter Your Points Please !! ")]
         public int Points { get; set; }
 
-        [Required(ErrorMessage = "Enter Product Description please !! ")]
+        //[Required(ErrorMessage = "Enter Product Description please !! ")]
         [StringLength(200, MinimumLength = 20)]
         [Display(Name = "Product Description")]
         public string ProductDescription { get; set; }
@@ -35,11 +35,12 @@ namespace identityWithChristina.Models
         [Display(Name = "Product Image")]
         public string PhotoUrl { get; set; }
 
-        [Required]
-        public int CategoryId { get; set; }
+        //[Required]
+        [ForeignKey("Category")]
+        public int? CategoryId { get; set; }
 
-        public string OwnerUserId { get; set; }
-        public string ExchangationUserId { get; set; }
+        public string? OwnerUserId { get; set; }
+        public string? ExchangationUserId { get; set; }
         public int? DonationAssId { get; set; }
 
         public virtual Category Category { get; set; } = null!;

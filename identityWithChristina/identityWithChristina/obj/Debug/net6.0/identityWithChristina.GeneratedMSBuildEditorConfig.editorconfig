@@ -27,6 +27,22 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3RyYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/USER/OneDrive/Desktop/last/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/OneDrive/Desktop/last/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Categories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/OneDrive/Desktop/last/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/OneDrive/Desktop/last/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/USER/OneDrive/Desktop/last/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/GeneralFeedbacks/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJhbEZlZWRiYWNrc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -53,6 +69,26 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/USER/OneDrive/Desktop/last/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/OneDrive/Desktop/last/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/OneDrive/Desktop/last/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Products/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/OneDrive/Desktop/last/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/OneDrive/Desktop/last/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/OneDrive/Desktop/last/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/USER/OneDrive/Desktop/last/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Role/AddRole.cshtml]

@@ -1,0 +1,50 @@
+﻿@model IEnumerable<identityWithChristina.Models.Category>
+
+@{
+    Layout = "_Layout1";
+    ViewData["Title"] = "Categories";
+}
+
+<link href="~/css/css/main.css" />
+<link href="~/css/css/style.css" />
+<!-- breadcrumb-section -->
+
+	<div class="breadcrumb-section breadcrumb-bg">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-8 offset-lg-2 text-center">
+					<div class="breadcrumb-text">
+						<p>Choose Whatever You Intersted In</p>
+						<h1 class="categories">Categories</h1>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+   <!--Categories-->
+
+	        <div class="product-section mt-150 mb-150">
+		     <div class="container">
+			   <div class="row">
+				 <div class="col-md-12">
+					<div class="row product-lists">
+
+						@foreach (var item in Model) {
+						<div class="col-lg-4 col-md-6 text-center strawberry">
+								<div class="product-image">
+									<a href=""><img src="@Url.Content(item.PhotoUrl)" alt=""></a>
+								</div>
+							<div>
+								<h3>@Html.DisplayFor(modelItem => item.CategoryName)</h3>
+								<a href="products.html" class="cart-btn"><i class="fas fa"></i> View Products</a>
+							</div>
+						</div>
+						}
+
+					</div>
+					</div>
+				</div>
+			</div>
+		</div>
+					<!-- end categories -->

@@ -92,35 +92,23 @@ namespace identityWithChristina.Controllers
 
             if (ModelState.IsValid)
             {
-
-                string imgName = DateTime.Now.ToString("MM,dd,yyyy-HH:mm:ss");
-             
-                    //string path = "wwwroot/CategoriesImages/" + _category.CategoryId;
-                    //Directory.CreateDirectory("./" + path);
-                    //_category.PhotoUrl = "/CategoriesImages/" + _category.CategoryId + "/" + file.FileName;
-                    //using (var img = new FileStream(path + "/" + file.FileName, FileMode.Create))
-                    //{
-                    //    file.CopyTo(img);
-                    //}
-
+                string accPath = " /gallary/im.jfifbarakat.jfif";
+                if (pro.profilePicture != null) { 
+                    string imgName = DateTime.Now.ToString("MM,dd,yyyy-HH:mm:ss");
                     var r = pro.profilePicture.FileName;
-                    
                     var arr = pro.profilePicture.FileName.Split(".");
                     string ext = arr[arr.Length - 1];
                      string path = ".//wwwroot//gallary//" + r+pro.street + "." + ext;
-
-                  //  var path = Path.Combine(
-                  //Directory.GetCurrentDirectory(), "wwwroot/gallary",
+                    //  var path = Path.Combine(
+                   //Directory.GetCurrentDirectory(), "wwwroot/gallary",
                   //imgName);
-
-                    string accPath = "/gallary/" + r + pro.street + "." + ext;
+                    accPath = "/gallary/" +  r+pro.street + "." + ext;
                     using (var stream = new FileStream(path, FileMode.Create))
                     {
                         pro.profilePicture.CopyTo(stream);
                     }
+                }
 
-
-                
                 ApplicationUser appUser = _context.ApplicationUsers.FirstOrDefault(e=>e.Id==userId);
                 appUser.Street = pro.street;
                 appUser.City = pro.city;
@@ -133,15 +121,12 @@ namespace identityWithChristina.Controllers
                 appUser.Lname = pro.Lname;
                 appUser.ProfilePictureUrl = accPath;
 
-
                 _context.Update(appUser);
                 _context.SaveChanges();
                 return RedirectToAction("Index");
             }
             else { return View(); }
-
-
-        }
+         }
 
         // GET: UserController/Delete/5
         public ActionResult Delete(int id)

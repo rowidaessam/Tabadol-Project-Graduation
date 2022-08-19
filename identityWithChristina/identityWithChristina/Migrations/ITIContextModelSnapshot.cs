@@ -178,17 +178,14 @@ namespace identityWithChristina.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CategoryId"), 1L, 1);
 
                     b.Property<string>("CategoryName")
-                        .IsRequired()
                         .HasMaxLength(50)
                         .HasColumnType("nvarchar(50)");
 
                     b.Property<string>("Description")
-                        .IsRequired()
                         .HasMaxLength(500)
                         .HasColumnType("nvarchar(500)");
 
                     b.Property<string>("PhotoUrl")
-                        .IsRequired()
                         .HasMaxLength(200)
                         .HasColumnType("nvarchar(200)")
                         .HasColumnName("PhotoURL");
@@ -328,7 +325,7 @@ namespace identityWithChristina.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ProductId"), 1L, 1);
 
-                    b.Property<int>("CategoryId")
+                    b.Property<int?>("CategoryId")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int")
                         .HasColumnName("CategoryID")
@@ -356,7 +353,6 @@ namespace identityWithChristina.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("ProductDescription")
-                        .IsRequired()
                         .HasMaxLength(500)
                         .HasColumnType("nvarchar(500)");
 
@@ -577,7 +573,6 @@ namespace identityWithChristina.Migrations
                     b.HasOne("identityWithChristina.Models.Category", "Category")
                         .WithMany("Products")
                         .HasForeignKey("CategoryId")
-                        .IsRequired()
                         .HasConstraintName("FK_Products_Categories");
 
                     b.HasOne("identityWithChristina.Models.Association", "DonationAss")
