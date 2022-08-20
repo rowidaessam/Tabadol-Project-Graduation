@@ -8,125 +8,137 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = identityWithChristina
 build_property.RootNamespace = identityWithChristina
-build_property.ProjectDir = C:\Users\USER\OneDrive\Desktop\last\Tabadol-Project-Graduation\identityWithChristina\identityWithChristina\
+build_property.ProjectDir = E:\Dot Net\Final Project\Repository\Tabadol-Project-Graduation\identityWithChristina\identityWithChristina\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\USER\OneDrive\Desktop\last\Tabadol-Project-Graduation\identityWithChristina\identityWithChristina
+build_property.MSBuildProjectDirectory = E:\Dot Net\Final Project\Repository\Tabadol-Project-Graduation\identityWithChristina\identityWithChristina
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/USER/OneDrive/Desktop/last/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Account/AddAdmin.cshtml]
+[E:/Dot Net/Final Project/Repository/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Account/AddAdmin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBZGRBZG1pbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/OneDrive/Desktop/last/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Account/Login.cshtml]
+[E:/Dot Net/Final Project/Repository/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/OneDrive/Desktop/last/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Account/Registration.cshtml]
+[E:/Dot Net/Final Project/Repository/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Account/Registration.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3RyYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/OneDrive/Desktop/last/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Categories/Create.cshtml]
+[E:/Dot Net/Final Project/Repository/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/cart/checkedOut.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FydFxjaGVja2VkT3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Dot Net/Final Project/Repository/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/cart/checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FydFxjaGVja291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Dot Net/Final Project/Repository/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FydFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Dot Net/Final Project/Repository/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Categories/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/OneDrive/Desktop/last/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Categories/Delete.cshtml]
+[E:/Dot Net/Final Project/Repository/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Categories/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/OneDrive/Desktop/last/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Categories/Edit.cshtml]
+[E:/Dot Net/Final Project/Repository/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Categories/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/OneDrive/Desktop/last/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Categories/Index.cshtml]
+[E:/Dot Net/Final Project/Repository/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Categories/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/OneDrive/Desktop/last/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/GeneralFeedbacks/Create.cshtml]
+[E:/Dot Net/Final Project/Repository/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/GeneralFeedbacks/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJhbEZlZWRiYWNrc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/OneDrive/Desktop/last/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/GeneralFeedbacks/Delete.cshtml]
+[E:/Dot Net/Final Project/Repository/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/GeneralFeedbacks/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJhbEZlZWRiYWNrc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/OneDrive/Desktop/last/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/GeneralFeedbacks/Details.cshtml]
+[E:/Dot Net/Final Project/Repository/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/GeneralFeedbacks/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJhbEZlZWRiYWNrc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/OneDrive/Desktop/last/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/GeneralFeedbacks/Edit.cshtml]
+[E:/Dot Net/Final Project/Repository/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/GeneralFeedbacks/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJhbEZlZWRiYWNrc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/OneDrive/Desktop/last/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/GeneralFeedbacks/Index.cshtml]
+[E:/Dot Net/Final Project/Repository/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/GeneralFeedbacks/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJhbEZlZWRiYWNrc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/OneDrive/Desktop/last/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Home/Index.cshtml]
+[E:/Dot Net/Final Project/Repository/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/OneDrive/Desktop/last/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Home/Privacy.cshtml]
+[E:/Dot Net/Final Project/Repository/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/OneDrive/Desktop/last/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Products/Create.cshtml]
+[E:/Dot Net/Final Project/Repository/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Products/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/OneDrive/Desktop/last/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Products/Delete.cshtml]
+[E:/Dot Net/Final Project/Repository/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Products/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/OneDrive/Desktop/last/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Products/Details.cshtml]
+[E:/Dot Net/Final Project/Repository/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Products/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/OneDrive/Desktop/last/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Products/Edit.cshtml]
+[E:/Dot Net/Final Project/Repository/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Products/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/OneDrive/Desktop/last/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Products/Index.cshtml]
+[E:/Dot Net/Final Project/Repository/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Products/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/OneDrive/Desktop/last/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Role/AddRole.cshtml]
+[E:/Dot Net/Final Project/Repository/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Role/AddRole.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxBZGRSb2xlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/OneDrive/Desktop/last/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Shared/Error.cshtml]
+[E:/Dot Net/Final Project/Repository/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/OneDrive/Desktop/last/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Shared/_Layout1.cshtml]
+[E:/Dot Net/Final Project/Repository/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Shared/_Layout1.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQxLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/OneDrive/Desktop/last/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/Dot Net/Final Project/Repository/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/OneDrive/Desktop/last/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/User/Details.cshtml]
+[E:/Dot Net/Final Project/Repository/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/User/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/OneDrive/Desktop/last/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/User/Edit.cshtml]
+[E:/Dot Net/Final Project/Repository/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/User/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/OneDrive/Desktop/last/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/User/Index.cshtml]
+[E:/Dot Net/Final Project/Repository/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/User/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/OneDrive/Desktop/last/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/_ViewImports.cshtml]
+[E:/Dot Net/Final Project/Repository/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/OneDrive/Desktop/last/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/_ViewStart.cshtml]
+[E:/Dot Net/Final Project/Repository/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/OneDrive/Desktop/last/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Shared/_Layout.cshtml]
+[E:/Dot Net/Final Project/Repository/Tabadol-Project-Graduation/identityWithChristina/identityWithChristina/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-7ruhpqdqxh

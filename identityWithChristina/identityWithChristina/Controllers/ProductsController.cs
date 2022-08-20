@@ -101,11 +101,10 @@ namespace identityWithChristina.Controllers
         [HttpPost]
         //[Authorize]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create(IFormFile file, Product _Product, Category cat)
+        public async Task<IActionResult> Create(IFormFile file, [Bind("ProductId,ProductName,Points,ProductDescription, PhotoUrl, CategoryId, OwnerUserId, ExchangationUserId, DonationAssId")] Product _Product)
         {
+
             ViewBag.request = "Create";
-            //cat.CategoryId = _Product.CategoryId;
-            ViewBag.categoryee = new SelectList(_context.Categories.ToList(), "CategoryId", "CategoryName");
             var prd = _Product.ProductId.ToString();
             prd = _userManager.GetUserId(User);
             Createprd(_Product);
@@ -114,7 +113,7 @@ namespace identityWithChristina.Controllers
             {
                 if (file.ContentType.ToLower().Contains("image"))
                 {
-                    string path = "wwwroot/productssImages/" + _Product.ProductId;
+                    string path = "wwwroot/productsImages/" + _Product.ProductId;
                     Directory.CreateDirectory("./" + path);
                     _Product.PhotoUrl = "/productsImages/" + _Product.ProductId + "/" + file.FileName;
                     using (var img = new FileStream(path + "/" + file.FileName, FileMode.Create))
@@ -135,7 +134,41 @@ namespace identityWithChristina.Controllers
 
             return View(_Product);
 
-        }
+
+
+
+
+        //    ViewBag.request = "Create";
+        //    var prd = _Product.ProductId.ToString();
+        //    prd = _userManager.GetUserId(User);
+        //    Createprd(_Product);
+
+        //    if (file != null)
+        //    {
+        //        var prod = file.FileName;
+        //        var PrdArr = prod.Split(".");
+        //        string extension = PrdArr[PrdArr.Length - 1];
+        //        string path = ".//wwwroot//productsImages//" + prod + _Product.ProductId + "." + extension;
+
+        //        using (var stream = new FileStream(path, FileMode.Create))
+        //        {
+        //            file.CopyTo(stream);
+        //        }
+        //        Update(_Product);
+        //        return RedirectToAction("index", "Products");
+        //    }
+        //    if (_Product.ProductId != 0)
+        //    {
+        //        return RedirectToAction("index", "Products");
+        //    }
+        //    ModelState.AddModelError("", "Not Added");
+        //    var productss = GetAll().Select(c => new { c.ProductId, c.ProductName });
+        //    ViewBag.ProductId = new SelectList(productss, "ProductId", "ProductName", _Product.ProductId);
+
+        //    return View(_Product);
+        //}
+
+    }
 
         // GET: Products/Edit/5
         public async Task<IActionResult> Edit(int? id)

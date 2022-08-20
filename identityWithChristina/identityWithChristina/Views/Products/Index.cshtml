@@ -31,7 +31,7 @@
                             <li class="active" data-filter="*">All</li>
 							@foreach (var item in Model.Categories) {
 
-                               <li data-filter="">@Html.DisplayFor(modelItem => item.CategoryName)</li>
+                               <li data-filter=".@item.CategoryId">@Html.DisplayFor(modelItem => item.CategoryName)</li>
 							
 								
 							}
@@ -45,7 +45,7 @@
 			@foreach (var item in Model.Products) 
             {
 			<div class="row product-lists">
-                <div class="col-lg-4 col-md-6 text-center Electronics">
+                <div class="col-lg-4 col-md-6 text-center @item.CategoryId">
 					<div class="single-product-item">
 						<div class="product-image">
 							<a href=""><img src="@Url.Content(item.PhotoUrl)" alt=""></a>

@@ -1,21 +1,34 @@
 ﻿using identityWithChristina.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using identityWithChristina.ViewModel;
+using Microsoft.EntityFrameworkCore;
 
 namespace identityWithChristina.Controllers
 {
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly ITIContext _context;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger, ITIContext context)
         {
             _logger = logger;
+            _context = context;
         }
 
         public IActionResult Index()
         {
-            return View();
+            HomeViewModel model = new HomeViewModel();
+            List<Product> products = new List<Product>();
+            products = _context.Products.OrderByDescending(p => p.ProductId).Take(6).ToList();
+            model.products = products;
+            List<ApplicationUser> applicationUsers = new List<ApplicationUser>();
+            applicationUsers = _context.ApplicationUsers.Include(a => a.GeneralFeedbacks).Where(a => (a.GeneralFeedbacks.OrderBy(f => f.Date).LastOrDefault().Rate) > 3).OrderByDescending(a => a.Points).Take(6).ToList();
+            //List<GeneralFeedback> generalFeedbacks = new List<GeneralFeedback>();
+            //generalFeedbacks = model.generalFeedbacks.OrderBy(g => g.Date).Where(g => g.Rate > 3).Take(6).ToList();
+
+            return View(model);
         }
 
         public IActionResult Privacy()

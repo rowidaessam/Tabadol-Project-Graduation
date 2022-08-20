@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LCmeNpLZ59mJ5AEG8xitCAT28CWSbaSoUr2iKATojM0=",
+  "Hash": "eMXw5DdEOoAbBXuFyeuY3WpyNNHRUZ71K2slEiFAi84=",
   "Source": "identityWithChristina",
   "BasePath": "_content/identityWithChristina",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "identityWithChristina\\wwwroot",
       "Source": "identityWithChristina",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\obj\\Debug\\net6.0\\scopedcss\\bundle\\identityWithChristina.styles.css",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\obj\\Debug\\net6.0\\scopedcss\\bundle\\identityWithChristina.styles.css",
       "SourceId": "identityWithChristina",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "identityWithChristina.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\obj\\Debug\\net6.0\\scopedcss\\bundle\\identityWithChristina.styles.css"
+      "OriginalItemSpec": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\obj\\Debug\\net6.0\\scopedcss\\bundle\\identityWithChristina.styles.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\identityWithChristina.bundle.scp.css",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\identityWithChristina.bundle.scp.css",
       "SourceId": "identityWithChristina",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "identityWithChristina.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\identityWithChristina.bundle.scp.css"
+      "OriginalItemSpec": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\identityWithChristina.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\CategoriesImages\\1\\ima.jfif",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\CategoriesImages\\1\\ima.jfif",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "CategoriesImages/1/ima.jfif",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\CategoriesImages\\1\\ima.jfif"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\CategoriesImages\\2\\im.jfif",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\CategoriesImages\\2\\im.jfif",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "CategoriesImages/2/im.jfif",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\CategoriesImages\\2\\im.jfif"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\bootstrap\\css\\bootstrap.css",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\bootstrap\\css\\bootstrap.css",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/bootstrap/css/bootstrap.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\bootstrap\\css\\bootstrap.css.map",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\bootstrap\\css\\bootstrap.css.map",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/bootstrap/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\bootstrap\\css\\bootstrap.min.css",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\bootstrap\\css\\bootstrap.min.css",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/bootstrap/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\bootstrap\\css\\bootstrap.min.css.map",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\bootstrap\\css\\bootstrap.min.css.map",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/bootstrap/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\bootstrap\\css\\bootstrap-grid.css",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\bootstrap\\css\\bootstrap-grid.css",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/bootstrap/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\bootstrap\\css\\bootstrap-grid.css.map",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\bootstrap\\css\\bootstrap-grid.css.map",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/bootstrap/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\bootstrap\\css\\bootstrap-grid.min.css",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\bootstrap\\css\\bootstrap-grid.min.css",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/bootstrap/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\bootstrap\\css\\bootstrap-grid.min.css.map",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/bootstrap/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\bootstrap\\css\\bootstrap-reboot.css",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\bootstrap\\css\\bootstrap-reboot.css",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/bootstrap/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\bootstrap\\css\\bootstrap-reboot.css.map",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/bootstrap/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\bootstrap\\css\\bootstrap-reboot.min.css",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/bootstrap/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\bootstrap\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/bootstrap/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\bootstrap\\js\\bootstrap.bundle.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\bootstrap\\js\\bootstrap.bundle.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/bootstrap/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\bootstrap\\js\\bootstrap.bundle.js.map",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/bootstrap/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\bootstrap\\js\\bootstrap.bundle.min.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/bootstrap/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\bootstrap\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/bootstrap/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\bootstrap\\js\\bootstrap.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\bootstrap\\js\\bootstrap.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/bootstrap/js/bootstrap.js",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\bootstrap\\js\\bootstrap.js.map",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\bootstrap\\js\\bootstrap.js.map",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/bootstrap/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\bootstrap\\js\\bootstrap.min.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\bootstrap\\js\\bootstrap.min.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/bootstrap/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\bootstrap\\js\\bootstrap.min.js.map",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\bootstrap\\js\\bootstrap.min.js.map",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/bootstrap/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\all.min.css",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\all.min.css",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/css/all.min.css",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\all.min.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\animate.css",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\animate.css",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/css/animate.css",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\animate.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\donate.css",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\donate.css",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/css/donate.css",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\donate.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\magnific-popup.css",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\magnific-popup.css",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/css/magnific-popup.css",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\magnific-popup.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\main.css",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\main.css",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/css/main.css",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\main.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\main1.css",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\main1.css",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/css/main1.css",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\main1.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\meanmenu.min.css",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\meanmenu.min.css",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/css/meanmenu.min.css",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\meanmenu.min.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\owl.carousel.css",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\owl.carousel.css",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/css/owl.carousel.css",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\owl.carousel.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\products.css",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\products.css",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/css/products.css",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\products.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\responsive.css",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\responsive.css",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/css/responsive.css",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\responsive.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\scss\\base\\_mixins.scss",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\scss\\base\\_mixins.scss",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/css/scss/base/_mixins.scss",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\scss\\base\\_mixins.scss"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\scss\\base\\_typography.scss",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\scss\\base\\_typography.scss",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/css/scss/base/_typography.scss",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\scss\\base\\_typography.scss"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\scss\\base\\_variables.scss",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\scss\\base\\_variables.scss",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/css/scss/base/_variables.scss",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\scss\\base\\_variables.scss"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\scss\\common\\_common.scss",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\scss\\common\\_common.scss",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/css/scss/common/_common.scss",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\scss\\common\\_common.scss"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\scss\\common\\_footer.scss",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\scss\\common\\_footer.scss",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/css/scss/common/_footer.scss",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\scss\\common\\_footer.scss"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\scss\\common\\_header.scss",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\scss\\common\\_header.scss",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/css/scss/common/_header.scss",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\scss\\common\\_header.scss"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\scss\\common\\_hover.scss",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\scss\\common\\_hover.scss",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/css/scss/common/_hover.scss",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\scss\\common\\_hover.scss"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\scss\\main.scss",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\scss\\main.scss",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/css/scss/main.scss",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\scss\\main.scss"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\scss\\pages\\_404.css",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\scss\\pages\\_404.css",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/css/scss/pages/_404.css",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\scss\\pages\\_404.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\scss\\pages\\_404.scss",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\scss\\pages\\_404.scss",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/css/scss/pages/_404.scss",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\scss\\pages\\_404.scss"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\scss\\pages\\_about.scss",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\scss\\pages\\_about.scss",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/css/scss/pages/_about.scss",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\scss\\pages\\_about.scss"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\scss\\pages\\_contact.scss",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\scss\\pages\\_contact.scss",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/css/scss/pages/_contact.scss",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\scss\\pages\\_contact.scss"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\scss\\pages\\_shop.scss",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\scss\\pages\\_shop.scss",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/css/scss/pages/_shop.scss",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\scss\\pages\\_shop.scss"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\scss\\prepros-6.config",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\scss\\prepros-6.config",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/css/scss/prepros-6.config",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\scss\\prepros-6.config"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\scss\\sections\\_about.scss",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\scss\\sections\\_about.scss",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/css/scss/sections/_about.scss",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\scss\\sections\\_about.scss"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\scss\\sections\\_cart-banner.scss",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\scss\\sections\\_cart-banner.scss",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/css/scss/sections/_cart-banner.scss",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\scss\\sections\\_cart-banner.scss"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\scss\\sections\\_hero.scss",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\scss\\sections\\_hero.scss",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/css/scss/sections/_hero.scss",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\scss\\sections\\_hero.scss"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\scss\\sections\\_list.scss",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\scss\\sections\\_list.scss",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/css/scss/sections/_list.scss",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\scss\\sections\\_list.scss"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\scss\\sections\\_news.scss",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\scss\\sections\\_news.scss",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/css/scss/sections/_news.scss",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\scss\\sections\\_news.scss"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\scss\\sections\\_shop-banner.scss",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\scss\\sections\\_shop-banner.scss",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/css/scss/sections/_shop-banner.scss",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\scss\\sections\\_shop-banner.scss"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\scss\\sections\\_testimonials.scss",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\scss\\sections\\_testimonials.scss",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/css/scss/sections/_testimonials.scss",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\scss\\sections\\_testimonials.scss"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\style.css",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\style.css",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/css/style.css",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\userprofile.css",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\css\\userprofile.css",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/css/userprofile.css",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\userprofile.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\abt-bg.jpg",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\abt-bg.jpg",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/img/abt-bg.jpg",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\abt-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\avaters\\avatar1.png",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\avaters\\avatar1.png",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/img/avaters/avatar1.png",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\avaters\\avatar1.png"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\avaters\\avatar2.png",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\avaters\\avatar2.png",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/img/avaters/avatar2.png",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\avaters\\avatar2.png"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\avaters\\avatar3.png",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\avaters\\avatar3.png",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/img/avaters/avatar3.png",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\avaters\\avatar3.png"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\bg-1.jpg",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\bg-1.jpg",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/img/bg-1.jpg",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\bg-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\bg-2.png",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\bg-2.png",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/img/bg-2.png",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\bg-2.png"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\bg-3.jpg",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\bg-3.jpg",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/img/bg-3.jpg",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\bg-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\company-logos\\1.png",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\company-logos\\1.png",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/img/company-logos/1.png",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\company-logos\\1.png"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\company-logos\\2.png",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\company-logos\\2.png",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/img/company-logos/2.png",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\company-logos\\2.png"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\company-logos\\3.png",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\company-logos\\3.png",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/img/company-logos/3.png",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\company-logos\\3.png"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\company-logos\\4.png",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\company-logos\\4.png",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/img/company-logos/4.png",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\company-logos\\4.png"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\company-logos\\5.png",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\company-logos\\5.png",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/img/company-logos/5.png",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\company-logos\\5.png"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\donate.jpg",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\donate.jpg",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/img/donate.jpg",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\donate.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\homepage-bg-pattern.png",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\homepage-bg-pattern.png",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/img/homepage-bg-pattern.png",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\homepage-bg-pattern.png"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\products\\P1.jpg",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\products\\P1.jpg",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/img/products/P1.jpg",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\products\\P1.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\products\\p2.jpg",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\products\\p2.jpg",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/img/products/p2.jpg",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\products\\p2.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\products\\p3.jpg",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\products\\p3.jpg",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/img/products/p3.jpg",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\products\\p3.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\products\\p4.webp",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\products\\p4.webp",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/img/products/p4.webp",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\products\\p4.webp"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\products\\p5.webp",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\products\\p5.webp",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/img/products/p5.webp",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\products\\p5.webp"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\products\\p6.jpg",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\products\\p6.jpg",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/img/products/p6.jpg",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\products\\p6.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\tabadollogo.png",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\tabadollogo.png",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/img/tabadollogo.png",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\tabadollogo.png"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\team\\nada.jpeg",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\team\\nada.jpeg",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/img/team/nada.jpeg",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\team\\nada.jpeg"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\team\\team-1.jpg",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\team\\team-1.jpg",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/img/team/team-1.jpg",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\team\\team-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\team\\team-2.jpg",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\team\\team-2.jpg",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/img/team/team-2.jpg",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\team\\team-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\team\\team-3.jpg",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\team\\team-3.jpg",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/img/team/team-3.jpg",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\team\\team-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\js\\bootstrap.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\js\\bootstrap.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/js/bootstrap.js",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\css\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\js\\bootstrap.min.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\js\\bootstrap.min.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\css\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\js\\form-validate.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\js\\form-validate.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/js/form-validate.js",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\css\\js\\form-validate.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\js\\jquery.countdown.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\js\\jquery.countdown.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/js/jquery.countdown.js",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\css\\js\\jquery.countdown.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\js\\jquery.isotope-3.0.6.min.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\js\\jquery.isotope-3.0.6.min.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/js/jquery.isotope-3.0.6.min.js",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\css\\js\\jquery.isotope-3.0.6.min.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\js\\jquery.magnific-popup.min.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\js\\jquery.magnific-popup.min.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/js/jquery.magnific-popup.min.js",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\css\\js\\jquery.magnific-popup.min.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\js\\jquery.meanmenu.min.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\js\\jquery.meanmenu.min.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/js/jquery.meanmenu.min.js",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\css\\js\\jquery.meanmenu.min.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\js\\jquery-1.11.3.min.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\js\\jquery-1.11.3.min.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/js/jquery-1.11.3.min.js",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\css\\js\\jquery-1.11.3.min.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\js\\jquery-3.3.1.min.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\js\\jquery-3.3.1.min.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/js/jquery-3.3.1.min.js",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\css\\js\\jquery-3.3.1.min.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\js\\main.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\js\\main.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/js/main.js",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\css\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\js\\owl.carousel.min.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\js\\owl.carousel.min.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/js/owl.carousel.min.js",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\css\\js\\owl.carousel.min.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\js\\popper.min.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\js\\popper.min.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/js/popper.min.js",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\css\\js\\popper.min.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\js\\sticker.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\js\\sticker.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/js/sticker.js",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\css\\js\\sticker.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\js\\waypoints.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\js\\waypoints.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/js/waypoints.js",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\css\\js\\waypoints.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\profile.css",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\profile.css",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/profile.css",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\css\\profile.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\profilePage\\profile.css",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\profilePage\\profile.css",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/profilePage/profile.css",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\css\\profilePage\\profile.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\site.css",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\site.css",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\webfonts\\fa-brands-400.eot",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\webfonts\\fa-brands-400.eot",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/webfonts/fa-brands-400.eot",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\css\\webfonts\\fa-brands-400.eot"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\webfonts\\fa-brands-400.eot_",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\webfonts\\fa-brands-400.eot_",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/webfonts/fa-brands-400.eot_",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\css\\webfonts\\fa-brands-400.eot_"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\webfonts\\fa-brands-400.svg",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\webfonts\\fa-brands-400.svg",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/webfonts/fa-brands-400.svg",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\css\\webfonts\\fa-brands-400.svg"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\webfonts\\fa-brands-400.ttf",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\webfonts\\fa-brands-400.ttf",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/webfonts/fa-brands-400.ttf",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\css\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\webfonts\\fa-brands-400.woff",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\webfonts\\fa-brands-400.woff",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/webfonts/fa-brands-400.woff",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\css\\webfonts\\fa-brands-400.woff"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\webfonts\\fa-brands-400.woff2",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\webfonts\\fa-brands-400.woff2",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/webfonts/fa-brands-400.woff2",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\css\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\webfonts\\fa-regular-400.eot",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\webfonts\\fa-regular-400.eot",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/webfonts/fa-regular-400.eot",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\css\\webfonts\\fa-regular-400.eot"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\webfonts\\fa-regular-400.eot_",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\webfonts\\fa-regular-400.eot_",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/webfonts/fa-regular-400.eot_",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\css\\webfonts\\fa-regular-400.eot_"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\webfonts\\fa-regular-400.svg",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\webfonts\\fa-regular-400.svg",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/webfonts/fa-regular-400.svg",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\css\\webfonts\\fa-regular-400.svg"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\webfonts\\fa-regular-400.ttf",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\webfonts\\fa-regular-400.ttf",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/webfonts/fa-regular-400.ttf",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\css\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\webfonts\\fa-regular-400.woff",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\webfonts\\fa-regular-400.woff",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/webfonts/fa-regular-400.woff",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\css\\webfonts\\fa-regular-400.woff"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\webfonts\\fa-regular-400.woff2",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\webfonts\\fa-regular-400.woff2",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/webfonts/fa-regular-400.woff2",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\css\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\webfonts\\fa-solid-900.eot",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\webfonts\\fa-solid-900.eot",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/webfonts/fa-solid-900.eot",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\css\\webfonts\\fa-solid-900.eot"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\webfonts\\fa-solid-900.eot_",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\webfonts\\fa-solid-900.eot_",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/webfonts/fa-solid-900.eot_",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\css\\webfonts\\fa-solid-900.eot_"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\webfonts\\fa-solid-900.svg",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\webfonts\\fa-solid-900.svg",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/webfonts/fa-solid-900.svg",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\css\\webfonts\\fa-solid-900.svg"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\webfonts\\fa-solid-900.ttf",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\webfonts\\fa-solid-900.ttf",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/webfonts/fa-solid-900.ttf",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\css\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\webfonts\\fa-solid-900.woff",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\webfonts\\fa-solid-900.woff",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/webfonts/fa-solid-900.woff",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\css\\webfonts\\fa-solid-900.woff"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\webfonts\\fa-solid-900.woff2",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\webfonts\\fa-solid-900.woff2",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "css/webfonts/fa-solid-900.woff2",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\css\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\favicon.ico",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\favicon.ico",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\gallary\\im.jfifbarakat.jfif",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\gallary\\im.jfifbarakat.jfif",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "gallary/im.jfifbarakat.jfif",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\gallary\\im.jfifbarakat.jfif"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\gallary\\ima.jfif",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\gallary\\ima.jfif",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "gallary/ima.jfif",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\gallary\\ima.jfif"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\gallary\\images.jpgnozhaElgadida.jpg",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\gallary\\images.jpgnozhaElgadida.jpg",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "gallary/images.jpgnozhaElgadida.jpg",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\gallary\\images.jpgnozhaElgadida.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\gallary\\rahma.jpg",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\gallary\\rahma.jpg",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "gallary/rahma.jpg",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\gallary\\rahma.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\gallary\\wadi.jpg",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\gallary\\wadi.jpg",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "gallary/wadi.jpg",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\gallary\\wadi.jpg"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\js\\bootstrap.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\js\\bootstrap.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "js/bootstrap.js",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\js\\bootstrap.min.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\js\\bootstrap.min.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\js\\form-validate.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\js\\form-validate.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "js/form-validate.js",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\js\\form-validate.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\js\\jquery.countdown.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\js\\jquery.countdown.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "js/jquery.countdown.js",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.countdown.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\js\\jquery.isotope-3.0.6.min.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\js\\jquery.isotope-3.0.6.min.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "js/jquery.isotope-3.0.6.min.js",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.isotope-3.0.6.min.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\js\\jquery.magnific-popup.min.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "js/jquery.magnific-popup.min.js",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.magnific-popup.min.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\js\\jquery.meanmenu.min.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\js\\jquery.meanmenu.min.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "js/jquery.meanmenu.min.js",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.meanmenu.min.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\js\\jquery-1.11.3.min.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\js\\jquery-1.11.3.min.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "js/jquery-1.11.3.min.js",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-1.11.3.min.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\js\\jquery-3.3.1.min.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "js/jquery-3.3.1.min.js",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-3.3.1.min.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\js\\main.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\js\\main.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "js/main.js",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\js\\owl.carousel.min.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\js\\owl.carousel.min.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "js/owl.carousel.min.js",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\js\\owl.carousel.min.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\js\\popper.min.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\js\\popper.min.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "js/popper.min.js",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\js\\popper.min.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\js\\site.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\js\\site.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\js\\sticker.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\js\\sticker.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "js/sticker.js",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\js\\sticker.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\js\\waypoints.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\js\\waypoints.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "js/waypoints.js",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\js\\waypoints.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2737,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2754,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2771,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2788,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2805,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2822,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2839,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2856,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2890,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2907,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2941,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2958,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2975,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2992,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -3009,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -3026,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -3043,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -3060,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -3077,10 +3077,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -3094,10 +3094,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -3111,10 +3111,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -3128,10 +3128,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -3145,10 +3145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -3162,10 +3162,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -3179,10 +3179,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -3196,10 +3196,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -3213,10 +3213,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -3230,10 +3230,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -3247,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -3264,10 +3264,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -3281,10 +3281,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -3298,10 +3298,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -3315,10 +3315,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\USER\\OneDrive\\Desktop\\last\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
