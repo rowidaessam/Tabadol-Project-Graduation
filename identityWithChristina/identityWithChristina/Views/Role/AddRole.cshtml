@@ -3,14 +3,14 @@
 @model identityWithChristina.ViewModel.RoleViewModel
 @{
     ViewData["Title"] = "add role";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+
 }
 
-<h1>add new role</h1>
-<div class="row">
-    <div class="col-md-4">
+<div class="row justify-content-center"  >
+    <div class="col-md-4" style="margin:30px 0px;">
+        <h2>Add new Role</h2>
         <form asp-action="AddRole" method="post">
-            <h4>Create a new role.</h4>
-            <hr />
             <div asp-validation-summary="All" class="text-danger"></div>
             <div class="form-group">
                 <label asp-for="Name"></label>
@@ -18,7 +18,7 @@
                 <span asp-validation-for="Name" class="text-danger" ></span>
             </div>
        
-            <button type="submit" class="btn btn-primary">add</button>
+            <button type="submit" class="btnedit btn btn-primary">add</button>
         </form>
     </div>
  </div>

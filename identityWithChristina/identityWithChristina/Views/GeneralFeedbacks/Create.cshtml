@@ -6,11 +6,20 @@
     Layout = "~/Views/Shared/_Layout1.cshtml";
 }
 
-<h1>Create</h1>
-
-<h4>GeneralFeedback</h4>
-<hr />
-
+<!-- breadcrumb-section -->
+<div class="breadcrumb-section breadcrumb-bg">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-8 offset-lg-2 text-center">
+				<div class="breadcrumb-text">
+					<p>General Feedback</p>
+					<h1>Create Your Own Feedback</h1>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- end breadcrumb section -->
 
  <!--start of feedback-->
 	<div class="feedback-from-section mt-150 mb-150 ">
@@ -23,22 +32,22 @@
 					</div>
 				 	<div id="form_status"></div>
 					<div class="contact-form">
-						<form asp-action="Create"  method="post">
+						<form asp-action="Create" method="post">
 							 <div asp-validation-summary="All" class="text-danger"></div>
 							<p>
 								<input asp-for="name" placeholder="@User.Identity.Name" name="name"  id="name">
 								<input asp-for="phone" placeholder="Phone" name="phone" id="phone">
 							</p>
-							<p >
-								<!---->
-								<!---->
+							<p>
 								<input asp-for="email" type="email" placeholder="Email" name="email" id="email">
 							</p>
 							<p>
-								<input asp-for="message" name="message" id="message" cols="30" rows="10" placeholder="Feedback">
-								</p>
+								<textarea asp-for="message" name="message" id="message" cols="30" rows="10" placeholder="Feedback"></textarea>
+
+@*								<input asp-for="message" name="message" id="message" cols="30" rows="10" placeholder="Feedback">
+*@								</p>
 						
-							<p ><input type="submit" value="Send"></p>
+							<p><input class="btnedit" type="submit" value="Send"></p>
 						</form>
 					</div>
 				</div>
@@ -116,7 +125,7 @@
 	}
 
 
-<div>
+@*<div>
     <a asp-action="Index">Back to List</a>
-</div>
+</div>*@
 

@@ -261,21 +261,20 @@ namespace identityWithChristina.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("OrderId"), 1L, 1);
 
-                    b.Property<int>("NumberOfProducts")
+                    b.Property<int?>("NumberOfProducts")
                         .HasColumnType("int");
 
                     b.Property<DateTime?>("OrderDate")
                         .HasColumnType("datetime");
 
                     b.Property<string>("ShipAddress")
-                        .IsRequired()
                         .HasMaxLength(500)
                         .HasColumnType("nvarchar(500)");
 
                     b.Property<DateTime?>("ShipDate")
                         .HasColumnType("datetime");
 
-                    b.Property<int>("TotalPoints")
+                    b.Property<int?>("TotalPoints")
                         .HasColumnType("int");
 
                     b.Property<string>("UserId")

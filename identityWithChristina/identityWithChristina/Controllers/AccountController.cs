@@ -34,7 +34,7 @@ namespace identityWithChristina.Controllers
             if (r.Succeeded)
             {
                 await signInManager.SignInAsync(us, false);
-                return RedirectToAction("Index", "Departments");
+                return RedirectToAction("Index", "Home");
             }
             else
             {

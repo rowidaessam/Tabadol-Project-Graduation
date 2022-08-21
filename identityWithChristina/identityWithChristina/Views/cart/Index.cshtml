@@ -35,6 +35,9 @@
 								</tr>
 							</thead>
 							<tbody>
+								
+								@if(Model.OrderDetails!=null)
+								{
 							@foreach(var item in Model.OrderDetails)
 							{
 								<tr class="table-body-row">
@@ -43,7 +46,14 @@
 									<td class="product-name">@item.Product.ProductName</td>
 									<td class="product-price">@item.Product.Points pts</td>
 								</tr>
-							}							
+							}	
+							}
+							else{
+                                   <tr class="table-body-row">
+									<td colspan="4" class="product-remove text-danger"> Empty Cart </td>
+									
+								</tr>
+							}
 							</tbody>
 						</table>
 					</div>
@@ -67,7 +77,7 @@
 						</table>
 						<div class="cart-buttons">
 							<a asp-action="Index" asp-controller="products" class="boxed-btn">Add Product</a>
-							<a asp-action="checkout" asp-controller="cart" asp-route-order="@Model.Order" class="boxed-btn black">Check Out</a>
+							<a asp-action="checkout" asp-controller="cart" asp-route-id="@Model" class="boxed-btn black">Check Out</a>
 						</div>
 					</div>
                     

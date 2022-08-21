@@ -33,16 +33,28 @@ namespace identityWithChristina.Controllers
             var userid = _userManager.GetUserId(User);
             if (UnExchangedOrderExist(userid))
             {
-                model.Order = _context.Orders.Include(o => o.OrderDetails).Where(o => o.UserId == userid && o.OrderDate == null).Last();
-                model.OrderDetails = model.Order.OrderDetails;
+ 
+                model.Order = _context.Orders.Include(o => o.OrderDetails).FirstOrDefault(o => o.UserId == userid && o.OrderDate == null);
+                model.OrderDetails = _context.OrderDetails.Include(o => o.Product).Where(o => o.OdrerId == model.Order.OrderId).ToList();
+               
             }
             return View(model);
         }
         [Authorize]
-        public IActionResult checkout(Order order)
+        public IActionResult checkout(CartViewModel id)
         {
-            return View();
+            CartViewModel model = new CartViewModel();
+            var userid = _userManager.GetUserId(User);
+            if (UnExchangedOrderExist(userid))
+            {
+
+                model.Order = _context.Orders.Include(o => o.OrderDetails).FirstOrDefault(o => o.UserId == userid && o.OrderDate == null);
+                model.OrderDetails = _context.OrderDetails.Include(o => o.Product).Where(o => o.OdrerId == model.Order.OrderId).ToList();
+
+            }
+            return View(model);
         }
+
         [HttpPost]
         [Authorize]
         public IActionResult checkedOut(Order order)
@@ -71,18 +83,18 @@ namespace identityWithChristina.Controllers
             return RedirectToAction(nameof(Index));
         }
         [Authorize]
-        public IActionResult AddToCart(int ProductID)
+        public IActionResult AddToCart(int id)
         {
             var userid = _userManager.GetUserId(User);
             OrderDetail orderDetail = new OrderDetail();
-            orderDetail.ProductId = ProductID;
-            orderDetail.Product = _context.Products.SingleOrDefault(p => p.ProductId == ProductID);
+            orderDetail.ProductId = id;
+            orderDetail.Product = _context.Products.SingleOrDefault(p => p.ProductId == id);
             orderDetail.PointsPerUnite = orderDetail.Product.Points;
 
 
             if (UnExchangedOrderExist(userid))
             {
-                var order = _context.Orders.Include(o => o.OrderDetails).Where(o => o.UserId == userid && o.OrderDate == null).Last();
+                var order = _context.Orders.Include(o => o.OrderDetails).FirstOrDefault(o => o.UserId == userid && o.OrderDate == null);
                 orderDetail.OdrerId = order.OrderId;
                 orderDetail.DisCount = 0;
                 orderDetail.NetPoints = orderDetail.PointsPerUnite;

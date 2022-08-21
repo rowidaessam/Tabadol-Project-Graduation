@@ -32,12 +32,12 @@
 
 						@foreach (var item in Model) {
 						<div class="col-lg-4 col-md-6 text-center strawberry">
-								<div class="product-image">
+								<div class="product-image" style="margin-bottom:40px;">
 									<a href=""><img src="@Url.Content(item.PhotoUrl)" alt=""></a>
 								</div>
 							<div>
 								<h3>@Html.DisplayFor(modelItem => item.CategoryName)</h3>
-								<a href=".@item.CategoryId" class="cart-btn"><i class="fas fa"></i> View Products</a>
+								<a asp-controller="Products" asp-action="Filter" asp-route-id="@item.CategoryId" class="cart-btn"><i class="fas fa"></i> View Products</a>
 							</div>
 						</div>
 						}
@@ -48,3 +48,5 @@
 			</div>
 		</div>
 		<!-- end categories -->
+							 <link rel="stylesheet" href="~/css/css/style.css" />
+

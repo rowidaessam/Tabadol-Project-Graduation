@@ -1,14 +1,33 @@
-.dropdown-item{
+.dropdown-item {
     color: #F28123;
 }
-.dropdown-menu{
+
+.dropdown-menu {
     background-color: gray;
 }
-.product-image{
+
+.product-image {
     height: 300px;
 }
-.mail{
+
+.mail {
     width: 100%;
 }
 
-           
+.btnedit {
+    background-color: #F28123;
+    border: none;
+    display: block;
+    margin: 1px auto;
+    padding: 10px 30px;
+}
+
+    .btnedit:hover {
+        background-color: #F28123;
+        border: none;
+    }
+
+    .btnedit:active {
+        background-color #F28123;
+        border: none;
+    }

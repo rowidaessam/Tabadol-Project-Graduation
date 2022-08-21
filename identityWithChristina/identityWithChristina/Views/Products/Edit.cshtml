@@ -47,20 +47,10 @@
 							</p>
                             <p>
                                  <div class="form-group">
-                                    <label asp-for="OwnerUserId" class="control-label">Owner User Id</label>
-                                    <select asp-for="OwnerUserId" style="width:100%;" class ="form-control" asp-items="ViewBag.OwnerUserId"></select>
-                                </div>
-                                </p>
-                                <p>
-                            <div class="form-group">
-                                <label asp-for="ExchangationUserId" class="control-label">Exchange User Id</label>
-                                <select asp-for="ExchangationUserId" style="width:100%;" class ="form-control" asp-items="ViewBag.ExchangationUserId"></select>
-                            </div>
-                                </p>
-                                <p>
-                                <div class="form-group">
-                                    <label asp-for="DonationAssId" class="control-label">Donation Association Id</label>
-                                    <select asp-for="DonationAssId" style="width:100%;" class ="form-control" asp-items="ViewBag.DonationAssId"></select>
+                                    <label asp-for="CategoryId" class="control-label">Category Name</label> 
+                                    <select asp-for="CategoryId" style="width:100%;" class ="form-control" asp-items="@ViewBag.categoryee">
+                                     <option>Select Category</option>
+                                    </select>
                                 </div>
                                 </p>
 							<input type="hidden" name="token"/>

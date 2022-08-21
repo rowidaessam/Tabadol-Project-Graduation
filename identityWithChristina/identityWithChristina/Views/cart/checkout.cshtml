@@ -1,4 +1,4 @@
-﻿@model identityWithChristina.Models.Order
+﻿@model identityWithChristina.ViewModel.CartViewModel
 
 @{
 	Layout = "_Layout1";
@@ -24,8 +24,8 @@
 						      <div class="card-body">
 						        <div class="card-details">	
 									<div class="col-lg-4">
-					<div class="order-details-wrap">
-						<table class="order-details">
+					         <div class="order-details-wrap">
+					     	<table class="order-details">
 							<thead>
 								<tr>
 									<th>Your order Details</th>
@@ -52,7 +52,7 @@
 							<tbody class="checkout-details">
 								<tr>
 									<td>Subtotal</td>
-									<td>@Model.TotalPoints pts</td>
+									<td>@Model.Order.TotalPoints Points</td>
 								</tr>
 								<tr>
 									<td>Shipping</td>
@@ -60,7 +60,7 @@
 								</tr>
 								<tr>
 									<td>Total</td>
-									<td>@(Model.TotalPoints+50) pts</td>
+									<td>@(Model.Order.TotalPoints+50) Points</td>
 								</tr>
 							</tbody>
 						</table>
@@ -86,10 +86,10 @@
 						      <div class="card-body">
 						        <div class="billing-address-form">
 						        	<form action="checkedOut.html" method="post">						        		
-						        		<p><input asp-for="ShipAddress"></p>
+						        		<p><input asp-for="Order.ShipAddress"></p>
 										 <div class="form-group">
-                <input asp-action="checkedOut" asp-controller="card" type="submit" value="Save" class="btn btn-primary" />
-            </div>
+                              <input asp-action="checkedOut" asp-controller="cart" type="submit" value="Save" class="btn btn-primary" />
+                                    </div>
 						        	</form>
 						        </div>
 						      </div>

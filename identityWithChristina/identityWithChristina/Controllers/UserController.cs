@@ -29,6 +29,12 @@ namespace identityWithChristina.Controllers
             return View(e);
         }
 
+        public ActionResult Owner(string id)
+        {
+            var e = _context.ApplicationUsers.FirstOrDefault(i => i.Id == id);
+            return View("index", e);
+        }
+
         // GET: UserController/Details/5
         public ActionResult Details(string id)
 

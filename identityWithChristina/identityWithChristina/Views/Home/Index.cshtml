@@ -133,11 +133,11 @@
 					<div class="col-lg-4 col-md-6 text-center">
 					<div class="single-product-item">
 						<div class="product-image">
-							<a href="signup.html"><img src="@item.PhotoUrl" alt=""></a>
+							<a asp-controller="Products" asp-action="Details" asp-route-id="@item.ProductId"><img src="@item.PhotoUrl" alt=""></a>
 						</div>
 						<h3>@item.ProductName</h3>
 						<p class="product-price">@item.Points Points </p>
-						<a asp-action="AddToCart" asp-controller="Card" class="cart-btn"><i class="fas fa-shopping-cart"></i> Add to Cart</a>
+						<a asp-action="AddToCart" asp-controller="Cart" asp-route-id="@item.ProductId" class="cart-btn"><i class="fas fa-shopping-cart"></i> Add to Cart</a>
 					</div>
 				</div>
 				}
@@ -207,51 +207,10 @@
 						</div>
 						}
 				
-						@*<div class="single-testimonial-slider">
-							<div class="client-avater">
-								<img src="assets/img/avaters/avatar1.png" alt="">
-							</div>
-							<div class="client-meta">
-								<h3>Saira Hakim </h3>
-								<p class="testimonial-body">
-									" The site is very great, I manged to exchange my old bike with a computer which i was really needed  "
-								</p>
-								<div class="last-icon">
-									<i class="fas fa-quote-right"></i>
-								</div>
-							</div>
-						</div>
-						<div class="single-testimonial-slider">
-							<div class="client-avater">
-								<img src="assets/img/avaters/avatar2.png" alt="">
-							</div>
-							<div class="client-meta">
-								<h3>Saira Hakim </h3>
-								<p class="testimonial-body">
-									" It's very good site and the idea of it is brilliant, We have alot of staff that we don't really need, I liked the idea of exchanging."
-								</p>
-								<div class="last-icon">
-									<i class="fas fa-quote-right"></i>
-								</div>
-							</div>
-						</div>
-						<div class="single-testimonial-slider">
-							<div class="client-avater">
-								<img src="assets/img/avaters/avatar3.png" alt="">
-							</div>
-							<div class="client-meta">
-								<h3>Saira Hakim </h3>
-								<p class="testimonial-body">
-									"Donationg the old staff is a fantastic idea as we own mang things that we are not using it, so it's good to donate it to people really need. "
-								</p>
-								<div class="last-icon">
-									<i class="fas fa-quote-right"></i>
-								</div>
-							</div>
-						</div>*@
+						
 					</div>
 					<div>
-						<a href="signup.html" class="cart-btn btn-lg">Write your own feedback</a>
+						<a asp-controller="GeneralFeedbacks" asp-action="Index" class="cart-btn btn-lg">Write your own feedback</a>
 
 					</div>
 				</div>

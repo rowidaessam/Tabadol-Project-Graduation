@@ -28,21 +28,26 @@
 			<div class="row">
 				<div class="col-md-5">
 					<div class="single-product-img">
-						<img src="img/kid-03.jpg" alt="">
+						<img src="@Model.PhotoUrl" alt="">
 					</div>
 				</div>
 				<div class="col-md-7">
 					<div class="single-product-content">
 						<h3>@Model.ProductName</h3>
-						<p class="single-product-pricing">@Model.Points</p>
+						<p class="single-product-pricing">@Model.Points points</p>
 						<p>@Model.ProductDescription</p>
 						<div class="single-product-form">
-							<form action="index.html">
+							<form>
 								<input type="number" placeholder="0" min="1" value="1">
 							</form>
-							<a href="cart1.html" class="cart-btn"><i class="fas fa-shopping-cart"></i> Add to Cart</a>
-                            <a href="products.html" class="cart-btn pbtn">More Products</a>
-							<p><strong>Categories: </strong>@Model.Category.CategoryName</p>
+							<a asp-controller="Cart" asp-action="AddToCart" asp-route-id="@Model.ProductId"  class="cart-btn"><i class="fas fa-shopping-cart"></i> Add to Cart</a>
+                            <a asp-action="index" class="cart-btn pbtn">More Products</a>
+                           <form method="post" asp-controller="User" asp-action="Owner">
+							   <input type="hidden" value="@Model.OwnerUserId" name="id" asp-for="@Model.OwnerUserId" />
+							   <input type="submit" value="Owner" class="cart-btn pbtn" /> 
+						   </form>
+						   <br /> <br />
+							<p><strong>Categories:  </strong> @Model.Category.CategoryName</p>
 						</div>
 						<h4>Share:</h4>
 						<ul class="product-share">

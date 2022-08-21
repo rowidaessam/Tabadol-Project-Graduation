@@ -18,7 +18,7 @@ body {
 }
 
     .profile-nav .user-heading {
-        background: #fbc02d;
+        background: #F28123;
         color: #fff;
         border-radius: 4px 4px 0 0;
         -webkit-border-radius: 4px 4px 0 0;
@@ -112,15 +112,15 @@ body {
     }
 
 .bio-graph-heading {
-    background: #fbc02d;
+    background: #F28123;
     color: #fff;
     text-align: center;
-    font-style: italic;
-    padding: 40px 110px;
+    padding: 30px 110px;
     border-radius: 4px 4px 0 0;
     -webkit-border-radius: 4px 4px 0 0;
     font-size: 16px;
     font-weight: 300;
+    line-height:
 }
 
 .bio-graph-info {
@@ -128,7 +128,7 @@ body {
 }
 
     .bio-graph-info h1 {
-        font-size: 22px;
+        font-size: 35px;
         font-weight: 300;
         margin: 0 0 20px;
     }
@@ -382,3 +382,26 @@ ul.summary-list {
         .activity-desk .album a:last-child {
             margin-right: 0px;
         }
+
+.btn {
+    background-color: #F28123;
+    border: #F28123;
+}
+
+    .btn:hover {
+        background-color: #051922;
+        border: #051922;
+    }
+
+    .btn:active {
+        background-color: #F28123;
+        border: #F28123;
+    }
+
+span {
+    font-weight: bold;
+}
+
+
+/*----------------------------------------------------
+*/
