@@ -1,5 +1,6 @@
 ﻿using identityWithChristina.Models;
 using identityWithChristina.ViewModel;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 
@@ -97,6 +98,7 @@ namespace identityWithChristina.Controllers
         }
 
         //addAdmin
+        [Authorize (Roles ="Admin")]
         public IActionResult AddAdmin()
         {
             return View();
@@ -126,7 +128,7 @@ namespace identityWithChristina.Controllers
 
                 }
 
-                return View(us);
+                return View(newAccount);
             }
 
 

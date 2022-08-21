@@ -28,20 +28,20 @@
 						<table class="cart-table">
 							<thead class="cart-table-head">
 								<tr class="table-head-row">
-									<th class="product-remove"></th>
-									<th class="product-image">Product Image</th>
-									<th class="product-name">Name</th>
-									<th class="product-price">Points</th>
+									<th class="product-remove font-weight-bold"></th>
+									<th class="product-image font-weight-bold">Product Image</th>
+									<th class="product-name font-weight-bold">Name</th>
+									<th class="product-price font-weight-bold">Points</th>
 								</tr>
 							</thead>
 							<tbody>
 								
 								@if(Model.OrderDetails!=null)
 								{
-							@foreach(var item in Model.OrderDetails)
-							{
+							    @foreach(var item in Model.OrderDetails)
+							    {
 								<tr class="table-body-row">
-									<td class="product-remove"><i class="far fa-window-close" >  @Html.ActionLink("Delete", "Delete", new { Oid=item.OdrerId,Pid=item.ProductId })</i></td>
+									 <td class="product-remove"><i class="fa-solid fa-trash i-style" >  @Html.ActionLink("Delete", "Delete", new { Oid=item.OdrerId,Pid=item.ProductId })</i></td>s
 									<td class="product-image"><img src="@item.Product.PhotoUrl" alt=""></td>
 									<td class="product-name">@item.Product.ProductName</td>
 									<td class="product-price">@item.Product.Points pts</td>
@@ -64,8 +64,8 @@
 						<table class="total-table">
 							<thead class="total-table-head">
 								<tr class="table-total-row">
-									<th>Total</th>
-									<th>Points</th>
+									<th class="font-weight-bold">Total</th>
+									<th class="font-weight-bold">Points</th>
 								</tr>
 							</thead>
 							<tbody>

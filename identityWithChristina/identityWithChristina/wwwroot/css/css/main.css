@@ -1487,7 +1487,7 @@ input[type="submit"] {
 }
 
 .homepage-slider div {
-  height: 100%;
+  height: 450px;
 }
 
 .homepage-slider div.hero-text {
@@ -2177,20 +2177,30 @@ a.video-play-btn {
 }
 
 .team-bg-1 {
-  background-image: url(../img/team/nada.jpeg);
+  background-image: url(../img/team/Rowida1.jpg);
 }
 
 .team-bg-2 {
-  background-image: url(../img/team/team-2.jpg);
+    background-image: url(../img/team/team-2.jpg);
+}
+.team-bg-3 {
+    background-image: url(../img/team/Mohamed.jpg);
+}
+.team-bg-4 {
+    background-image: url(../img/team/nada.jpeg);
+}
+.team-bg-5 {
+    background-image: url(../img/team/team-2.jpg);
 }
 
-.team-bg-3 {
+.team-bg-6 {
   background-image: url(../img/team/team-3.jpg);
 }
-
-.team-bg-4 {
-  background-image: url(../img/team/team-4.jpg);
+.team-bg-7 {
+    background-image: url(../img/team/team-2.jpg);
 }
+
+
 
 .team-bg {
   height: 400px;

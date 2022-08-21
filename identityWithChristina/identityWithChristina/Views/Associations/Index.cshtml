@@ -1,0 +1,85 @@
+﻿@{
+    Layout="_Layout1";
+    ViewBag.Title = "Donations";
+}
+@model AssociationUserProductViewModel
+<link rel="stylesheet" href="~/css/css/donate.css" />
+<!-- breadcrumb-section -->
+	<div class="breadcrumb-section breadcrumb-bg">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-8 offset-lg-2 text-center">
+					<div class="breadcrumb-text">
+						<p>Donation Instituations Information Details</p>
+						<h1>Donation Instituations</h1>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- end breadcrumb section -->
+
+	<!-- cart -->
+	<div class="cart-section mt-150 mb-150">
+		<div class="container">
+            <div class="row">
+            @foreach(var association in Model.Associations)
+            {
+                if (association != null)
+                {
+                    <div class="col-sm">
+
+                      <div class="car">
+                        <div class="car-img"><img src="~/css/img/company-logos/@association.AssLogoUrl.ToString()" width="100%"></div>
+                        <div class="car-detail">
+                            <div class="car-width">
+                                <div class="address"> @association.Assname </div>
+                                <div class="address"> @association.AssAddress </div>
+                                <div class="car-info">@association.AssDescription </div>
+                                <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModalToggle1" >Your Products for Donation</button>
+                                <button type="button" class="btn" ><a class="btn" asp-controller="Associations" asp-action="DonateNew" asp-route-id=" @association.Assid">Donate New</a></button>
+                            </div>
+                        </div>
+                    </div>  
+              
+              </div>
+                }
+            }
+               <div class="modal fade " id="exampleModalToggle1" tabindex="-1" aria-labelledby="exampleModalToggleLabel1" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered">
+                        <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="exampleModalToggleLabel1">Your own Products</h5>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                            <form>
+                                    @foreach (var product in Model.Products.Where(a => a.OwnerUserId == "2").ToList())
+                                    {
+                                        //هنا هتكون radio button
+                                        <div class="mb-3 img">
+                                            <img src="~/css/img/bg-2.png" alt="">
+                                            <p>@product.ProductName</p>
+                                            <p>@product.Points</p>
+                                        </div>
+                                    }
+                                    
+                               
+                            </form>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                            @*donation by own product*@
+                            <button type="button" class="btn dbtn"  data-bs-toggle="modal" data-bs-target="#exampleModalToggle" >Donate Now</button>
+                        </div>
+                        </div>
+                    </div>
+                    </div>
+               
+
+                   
+            </div>
+        </div>
+	</div>
+	<!-- end cart -->
+               

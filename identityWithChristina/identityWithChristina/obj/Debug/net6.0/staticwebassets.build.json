@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TmS1YKKWdZAHDuW6hEho8DsU+dvScdTfg5B3rqDNo5o=",
+  "Hash": "4veDe493vohgaAgmGNFMb7Pk0dGjmxlQ2S1+bcpdJ7g=",
   "Source": "identityWithChristina",
   "BasePath": "_content/identityWithChristina",
   "Mode": "Default",
@@ -1428,6 +1428,23 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\tabadollogo.png"
     },
     {
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\team\\Mohamed.jpg",
+      "SourceId": "identityWithChristina",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "BasePath": "_content/identityWithChristina",
+      "RelativePath": "css/img/team/Mohamed.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\img\\team\\Mohamed.jpg"
+    },
+    {
       "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\team\\nada.jpeg",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
@@ -1443,6 +1460,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\img\\team\\nada.jpeg"
+    },
+    {
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\team\\Rowida1.jpg",
+      "SourceId": "identityWithChristina",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "BasePath": "_content/identityWithChristina",
+      "RelativePath": "css/img/team/Rowida1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\img\\team\\Rowida1.jpg"
+    },
+    {
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\team\\Rowida2.JPG",
+      "SourceId": "identityWithChristina",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "BasePath": "_content/identityWithChristina",
+      "RelativePath": "css/img/team/Rowida2.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\img\\team\\Rowida2.JPG"
     },
     {
       "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\team\\team-1.jpg",
@@ -3466,6 +3517,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\productsImages\\17\\e4.png"
+    },
+    {
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\productsImages\\18\\b3.png",
+      "SourceId": "identityWithChristina",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "BasePath": "_content/identityWithChristina",
+      "RelativePath": "productsImages/18/b3.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\productsImages\\18\\b3.png"
     }
   ]
 }

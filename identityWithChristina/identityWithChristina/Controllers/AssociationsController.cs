@@ -53,28 +53,7 @@ namespace identityWithChristina.Controllers
             return View(a);
         }
 
-        //[HttpPost]
-        //public void CreateProduct(int Assid,string _ProductName,int _Points, string _ProductDescription,string _PhotoUrl,int _categoryid)
-        //{
-        //    ViewBag.categoryee = new SelectList(_context.Categories.ToList(), "CategoryId", "CategoryName");
-
-        //    ProductAssociation p = new()
-        //    {
-        //        product = new Product()
-        //        {
-        //            ProductName = _ProductName,
-        //            Points = _Points,
-        //            ProductDescription = _ProductDescription,
-        //            PhotoUrl = _PhotoUrl,
-        //            DonationAssId = Assid,
-        //            CategoryId = _categoryid,
-        //            OwnerUserId = userManager.GetUserId(User).ToString()
-        //        },
-        //        association = _context.Associations.FirstOrDefault(a => a.Assid == Assid)
-        //    };
-        //    _context.Products.Add(p.product);
-        //    _context.SaveChanges();
-        //}
+        
 
         public List<Product> GetAll()
         {
@@ -98,7 +77,6 @@ namespace identityWithChristina.Controllers
         public async Task<IActionResult> DonateNew(IFormFile file, Product _Product, Category cat)
         {
             ViewBag.request = "GetAssociationName";
-            //cat.CategoryId = _Product.CategoryId;
             ViewBag.categoryee = new SelectList(_context.Categories.ToList(), "CategoryId", "CategoryName");
             var prd = _Product.ProductId.ToString();
             prd = userManager.GetUserId(User);
