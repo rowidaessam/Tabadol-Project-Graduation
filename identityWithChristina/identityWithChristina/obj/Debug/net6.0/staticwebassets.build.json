@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4veDe493vohgaAgmGNFMb7Pk0dGjmxlQ2S1+bcpdJ7g=",
+  "Hash": "KpujJ9feD/O9oT9lX+xiku6SiXAY3SFMkGQo2666I9s=",
   "Source": "identityWithChristina",
   "BasePath": "_content/identityWithChristina",
   "Mode": "Default",
@@ -1428,6 +1428,40 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\tabadollogo.png"
     },
     {
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\team\\aesha.PNG",
+      "SourceId": "identityWithChristina",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "BasePath": "_content/identityWithChristina",
+      "RelativePath": "css/img/team/aesha.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\img\\team\\aesha.PNG"
+    },
+    {
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\team\\Dina.jpg",
+      "SourceId": "identityWithChristina",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "BasePath": "_content/identityWithChristina",
+      "RelativePath": "css/img/team/Dina.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\img\\team\\Dina.jpg"
+    },
+    {
       "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\team\\Mohamed.jpg",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
@@ -1496,6 +1530,23 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\team\\Rowida2.JPG"
     },
     {
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\team\\sara.jpg",
+      "SourceId": "identityWithChristina",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "BasePath": "_content/identityWithChristina",
+      "RelativePath": "css/img/team/sara.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\img\\team\\sara.jpg"
+    },
+    {
       "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\team\\team-1.jpg",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
@@ -1545,6 +1596,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\img\\team\\team-3.jpg"
+    },
+    {
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\team\\Yasmeen.png",
+      "SourceId": "identityWithChristina",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "BasePath": "_content/identityWithChristina",
+      "RelativePath": "css/img/team/Yasmeen.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\img\\team\\Yasmeen.png"
     },
     {
       "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\js\\bootstrap.js",
