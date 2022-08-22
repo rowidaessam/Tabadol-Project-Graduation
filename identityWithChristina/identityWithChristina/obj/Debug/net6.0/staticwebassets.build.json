@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lM/PhKIEVP5VV2CmUk9oLadPzi++LlL9aeqNJ3v0CZ0=",
+  "Hash": "bC/wVkcCtH+E3YXWAXSqq8dCZ9A+w9VU2uSJTGS6i2s=",
   "Source": "identityWithChristina",
   "BasePath": "_content/identityWithChristina",
   "Mode": "Default",
@@ -4843,6 +4843,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\productsImages\\19\\9.jpg"
+    },
+    {
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\productsImages\\20\\e3.png",
+      "SourceId": "identityWithChristina",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "BasePath": "_content/identityWithChristina",
+      "RelativePath": "productsImages/20/e3.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\productsImages\\20\\e3.png"
     }
   ]
 }
