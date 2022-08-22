@@ -1,0 +1,74 @@
+﻿
+@{
+    ViewData["Title"] = "Edit Association";
+}
+@model  identityWithChristina.Models.Association
+
+
+<h1>Editing @Model.Assname  Information</h1>
+
+<div class="contact-from-section mt-150 mb-150">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-8 mb-5 mb-lg-0">
+					<div class="form-title">
+					</div>
+				 	<div id="form_status"></div>
+					<div class="contact-form">
+						 <form asp-action="Edit" asp-controller="Associations">
+                          <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+							<p>
+			                  <div class="form-group">
+                                <input asp-for="Assid" hidden />
+                               <label asp-for="Assname" class="control-label">Association Name</label>
+                               <input asp-for="Assname" class="form-control" style="width:100%;" type="text" value="@Model.Assname"/>
+                                <span asp-validation-for="Assname" class="text-danger"></span>
+                                 </div>
+							   </p>
+							    <p>
+								 <div class="form-group">
+                                     <label asp-for="AssPhone" class="control-label">Association Phone</label>
+                                     <input asp-for="AssPhone"  class="form-control" style="width:100%;" value="@Model.AssPhone"/>                         
+                                    <span asp-validation-for="AssPhone" class="text-danger"></span>
+                                </div>
+							</p>
+							<p>
+                                 <div class="form-group">
+                                    <label asp-for="AssDescription" class="control-label"> Association Description </label>
+                                     <textarea asp-for="AssDescription" class="form-control"  aria-label="With textarea" > @Model.AssDescription</textarea>
+                                    <span asp-validation-for="AssDescription" class="text-danger"></span>
+                                </div>
+								</p>
+                                <p>
+                                 <div class="form-group">
+                                    <label asp-for="AssAddress" class="control-label"> Association Address </label>
+                                     <input asp-for="AssAddress" class="form-control" placeholder="Address">
+@*                                    <span asp-validation-for="AssAddress" class="text-danger"></span>
+*@                                </div>
+								</p>
+                                <p>
+                                      <div class="form-group">
+                                            <label asp-for="AssLogoUrl" class="control-label"> Association Logo</label><br />
+                                            <img src="~/css/img/company-logos/@Model.AssLogoUrl.ToString()" />
+                                           
+                                        </div>
+                                        <div class="form-group">
+                                            <label asp-for="AssLogoUrl">Change Logo</label>
+                                             <input asp-for="AssLogoUrl" class="form-control" style="width:100%;"  type="file" >  </input>
+                                            <span asp-validation-for="AssLogoUrl" class="text-danger"></span>
+                                        </div>
+
+							</p>
+                                
+							<input type="hidden" name="token"/>
+							<p><input type="submit" value="Submit" ></p>
+						</form>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+	</div>
+    @section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

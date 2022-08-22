@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KpujJ9feD/O9oT9lX+xiku6SiXAY3SFMkGQo2666I9s=",
+  "Hash": "S4jVmFfovbo4ZGRgik4UJv7a35CTJ2yBKEpD/zIS+Bo=",
   "Source": "identityWithChristina",
   "BasePath": "_content/identityWithChristina",
   "Mode": "Default",
@@ -1207,6 +1207,23 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\company-logos\\1.png"
     },
     {
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\company-logos\\1\\Resala.png",
+      "SourceId": "identityWithChristina",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "BasePath": "_content/identityWithChristina",
+      "RelativePath": "css/img/company-logos/1/Resala.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\img\\company-logos\\1\\Resala.png"
+    },
+    {
       "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\company-logos\\2.png",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
@@ -1273,6 +1290,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\img\\company-logos\\5.png"
+    },
+    {
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\company-logos\\LifeMakers.jpg",
+      "SourceId": "identityWithChristina",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "BasePath": "_content/identityWithChristina",
+      "RelativePath": "css/img/company-logos/LifeMakers.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\img\\company-logos\\LifeMakers.jpg"
+    },
+    {
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\company-logos\\Resala.png",
+      "SourceId": "identityWithChristina",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "BasePath": "_content/identityWithChristina",
+      "RelativePath": "css/img/company-logos/Resala.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\img\\company-logos\\Resala.png"
     },
     {
       "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\donate.jpg",
