@@ -190,12 +190,12 @@
 					<div class="footer-box pages">
 						<h2 class="widget-title">Pages</h2>
 						<ul>
-							<li><a href="index_3.html">Home</a></li>
-							<li><a href="categories.html">Categories</a></li>
-							<li><a href="products.html">Products</a></li>
-							<li><a href="donate.html">Donate</a></li>
-							<li><a href="contact.html">Contact US</a></li>
-							<li><a href="feedback.html">Feedback</a></li>
+							<li><a asp-controller="Home" asp-action="Index">Home</a></li>
+							<li><a asp-controller="Categories" asp-action="Index">Categories</a></li>
+							<li><a asp-controller="Products" asp-action="Index">Products</a></li>
+							<li><a asp-controller="Associations" asp-action="Index">Donate</a></li>
+							<li><a asp-controller="ContactUs" asp-action="Index">Contact US</a></li>
+							<li><a asp-controller="GeneralFeedbacks" asp-action="Create">Feedback</a></li>
 
 						</ul>
 					</div>
@@ -204,7 +204,7 @@
 					<div class="footer-box subscribe">
 						<h2 class="widget-title">Subscribe</h2>
 						<p>Subscribe to our mailing list to get the latest updates.</p>
-						<form action="index.html">
+						<form asp-controller="Home" asp-action="Index">
 							<input type="email" placeholder="Email">
 							<button type="submit"><i class="fas fa-paper-plane"></i></button>
 						</form>

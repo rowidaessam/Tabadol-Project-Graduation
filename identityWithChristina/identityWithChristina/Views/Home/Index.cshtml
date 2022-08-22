@@ -20,7 +20,7 @@
 								<p class="subtitle">Tabadol</p>
 								<h1>Exchange Your Old Staff</h1>
 								<div class="hero-btns">
-									<a href="signup.html" class="boxed-btn">Sign Up</a>
+									<a asp-controller="Account" asp-action="Registration" class="boxed-btn">Sign Up</a>
 									<a asp-controller="ContactUs" asp-action="Index" class="bordered-btn">Contact Us</a>
 								</div>
 							</div>
@@ -39,7 +39,7 @@
 								<p class="subtitle">Tabadol</p>
 								<h1>Save Your Money</h1>
 								<div class="hero-btns">
-									<a href="signup.html" class="boxed-btn">Sign Up</a>
+									<a asp-controller="Account" asp-action="Registration"  class="boxed-btn">Sign Up</a>
 									<a asp-controller="ContactUs" asp-action="Index" class="bordered-btn">Contact Us</a>
 								</div>
 							</div>
@@ -58,7 +58,7 @@
 								<p class="subtitle">Tabadol</p>
 								<h1>You Can Exchange Any Thing</h1>
 								<div class="hero-btns">
-									<a href="signup.html" class="boxed-btn">Sign Up</a>
+									<a asp-controller="Account" asp-action="Registration"  class="boxed-btn">Sign Up</a>
 									<a asp-controller="ContactUs" asp-action="Index" class="bordered-btn">Contact Us</a>
 								</div>
 							</div>
@@ -188,16 +188,17 @@
 			<div class="row">
 				<div class="col-lg-10 offset-lg-1 text-center">
 					<div class="testimonial-sliders">
-						@foreach(var item in Model.applicationUsers){
+						@foreach(var item in Model.generalFeedbacks){
 							
 							<div class="single-testimonial-slider">
 							<div class="client-avater">
-								<img src="@item.ProfilePictureUrl" alt="">
+								<img src="@item.User.ProfilePictureUrl" alt="">
+								
 							</div>
 							<div class="client-meta">
-								<h3>@item.UserName </h3>
+								<h3>@item.User.UserName </h3>
 								<p class="testimonial-body">
-									@item.GeneralFeedbacks.LastOrDefault().Message
+									@item.Message
 									</p>
 								<div class="last-icon">
 									<i class="fas fa-quote-right"></i>
