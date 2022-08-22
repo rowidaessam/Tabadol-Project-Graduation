@@ -33,20 +33,22 @@ namespace identityWithChristina.Controllers
             CategoryProductViewModel CatPrd = new CategoryProductViewModel()
             {
                 Categories = _context.Categories.ToList(),
-               Products = _context.Products.Where(p => p.ExchangationUserId == null && p.DonationAssId == null).ToList()
+                Products = _context.Products.Where(p => p.ExchangationUserId == null && p.DonationAssId == null).ToList()
             };
             return View(CatPrd);
-    
+
         }
+
         public async Task<IActionResult> MyProducts()
         {
             string productUser =  _userManager.GetUserId(User);
 
             CategoryProductViewModel CatPrd = new CategoryProductViewModel()
             {
-                Products = _context.Products.Where(n => n.OwnerUserId == productUser).ToList()
+                Categories = _context.Categories.ToList(),
+                Products = _context.Products.Where(n => n.OwnerUserId == productUser && n.ExchangationUserId == null && n.DonationAssId == null).ToList()
             };
-            return View("index", CatPrd);
+            return View(CatPrd);
 
         }
 

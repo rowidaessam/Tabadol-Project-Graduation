@@ -55,7 +55,7 @@
 							<a asp-action="Details" asp-route-id="@item.ProductId"><img src="@Url.Content(item.PhotoUrl)" alt=""></a>
 						</div>
 						<h3>@Html.DisplayFor(modelItem => item.ProductName)</h3>
-						<p class="product-price">@Html.DisplayFor(modelItem => item.Points) </p>
+						<p class="product-price">@Html.DisplayFor(modelItem => item.Points) Points</p>
 						<a asp-controller="Cart" asp-action="AddToCart" asp-route-id="@item.ProductId" class="cart-btn"><i class="fas fa-shopping-cart"></i> Add to Cart</a>
 					</div>
 				</div>

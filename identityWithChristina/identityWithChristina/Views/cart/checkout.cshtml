@@ -23,16 +23,16 @@
 						    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
 						      <div class="card-body">
 						        <div class="card-details">	
-									<div class="col-lg-4">
+									<div class="col-lg-12">
 					         <div class="order-details-wrap">
-					     	<table class="order-details">
+					     	<table class="order-details table text-center">
 							
-							<thead class="order-details-body">
+							<thead class="order-details-body" >
 								<tr>
-									<td>Product</td>
-									<td>Points</td>
-									<td>Discount</td>
-									<td>Total</td>
+									<th class="font-weight-bold">Product</th>
+									<th class="font-weight-bold">Points</th>
+									<th class="font-weight-bold">Discount</th>
+									<th class="font-weight-bold">Total</th>
 								</tr>
 									</thead>	
 									<tbody class="order-details-body">
@@ -48,15 +48,15 @@
 									</tbody>
 							<tbody class="checkout-details">
 								<tr>
-									<td>Subtotal</td>
+									<th>Subtotal</th>
 									<td colspan="3">@Model.Order.TotalPoints Points</td>
 								</tr>
 								<tr>
-									<td>Shipping</td>
+									<th>Shipping</th>
 									<td colspan="3">50 pts</td>
 								</tr>
 								<tr>
-									<td>Total</td>
+									<th>Total</th>
 									<td colspan="3">@(Model.Order.TotalPoints+50) Points</td>
 								</tr>
 							</tbody>
@@ -83,7 +83,7 @@
 						      <div class="card-body">
 						        <div class="billing-address-form">
 						        	<form action="checkedOut.html" method="post">			
-							<input asp-for="Order.UserId" value="@Model.Order.UserId" type="hidden"/>
+						        	<input asp-for="Order.UserId" value="@Model.Order.UserId" type="hidden"/>
 						        		<p><input asp-for="ShipAdd"></p>
 										 
                                            <input asp-action="checkedOut" asp-controller="cart" asp-route-id="@Model.Order.OrderId" type="submit" value="Save" class="btn btn-primary" />
@@ -99,9 +99,4 @@
 	</div>
 	</div>
 	</div>
-
-
-<div>
-    <a asp-action="Index">Back to List</a>
-</div>
 
