@@ -38,7 +38,7 @@ namespace identityWithChristina.Controllers
             return View(CatPrd);
 
         }
-
+        [Authorize]
         public async Task<IActionResult> MyProducts()
         {
             string productUser =  _userManager.GetUserId(User);
@@ -67,7 +67,7 @@ namespace identityWithChristina.Controllers
 
 
         }
-
+        [Authorize]
         // GET: Products/Details/5
         public async Task<IActionResult> Details(int? id)
         {
@@ -90,6 +90,7 @@ namespace identityWithChristina.Controllers
             return View(product);
         }
 
+        [Authorize]
         // GET: Products/Create
         public IActionResult Create()
         {
@@ -166,6 +167,7 @@ namespace identityWithChristina.Controllers
     }
 
         // GET: Products/Edit/5
+        [Authorize]
         public async Task<IActionResult> Edit(int? id)
         {
             ViewBag.categoryee = new SelectList(_context.Categories.ToList(), "CategoryId", "CategoryName");
@@ -229,6 +231,7 @@ namespace identityWithChristina.Controllers
         }
 
         // GET: Products/Delete/5
+        [Authorize]
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null || _context.Products == null)

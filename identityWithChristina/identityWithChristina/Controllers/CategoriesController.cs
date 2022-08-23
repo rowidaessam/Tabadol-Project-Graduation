@@ -37,6 +37,8 @@ namespace identityWithChristina.Controllers
 
 
         // GET: Categories/Create
+
+        [Authorize(Roles = "Admin")]
         public IActionResult Create()
         {
             return View();
@@ -70,7 +72,6 @@ namespace identityWithChristina.Controllers
 
 
         [HttpPost]
-        //[Authorize]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create(IFormFile file, [Bind("CategoryId,CategoryName,Description,PhotoUrl")] Category _category)
         {
@@ -107,6 +108,8 @@ namespace identityWithChristina.Controllers
         }
 
         // GET: Categories/Edit/5
+
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null || _context.Categories == null)
@@ -171,6 +174,7 @@ namespace identityWithChristina.Controllers
 
 
         // GET: Categories/Delete/5
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null || _context.Categories == null)

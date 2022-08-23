@@ -9,6 +9,7 @@ using identityWithChristina;
 using identityWithChristina.Models;
 using Microsoft.AspNetCore.Identity;
 using identityWithChristina.ViewModel;
+using Microsoft.AspNetCore.Authorization;
 
 namespace identityWithChristina.Controllers
 {
@@ -34,6 +35,8 @@ namespace identityWithChristina.Controllers
         }
 
         // GET: GeneralFeedbacks/Details/5
+
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null || _context.GeneralFeedbacks == null)
