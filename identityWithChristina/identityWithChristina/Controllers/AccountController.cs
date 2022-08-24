@@ -98,7 +98,7 @@ namespace identityWithChristina.Controllers
         }
 
         //addAdmin
-        [Authorize (Roles ="Admin")]
+   
         public IActionResult AddAdmin()
         {
             return View();
