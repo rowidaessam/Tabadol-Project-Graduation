@@ -31,8 +31,8 @@ namespace DBProject.Controllers
         {
             AssociationUserViewModel v = new()
             {
-                Products = _context.Products.ToList(),
-                Associations = _context.Associations.ToList(),
+                Products = _context.Products.Where(p=>p.OwnerUserId == userManager.GetUserId(User) && p.ExchangationUserId ==null && p.DonationAssId == null).ToList(),
+                Associations = _context.Associations.ToList()
 
             };
             return View(v);
@@ -180,7 +180,7 @@ namespace DBProject.Controllers
             }
             if (association.Assid != 0)
             {
-                return RedirectToAction("AdminIndex", "Associations");
+                return RedirectToAction("Index", "Associations");
             }
 
 

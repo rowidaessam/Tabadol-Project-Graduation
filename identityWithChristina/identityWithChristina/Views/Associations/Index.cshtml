@@ -30,13 +30,13 @@
                     <div class="col-sm">
 
                       <div class="car">
-                        <div class="car-img"><img src="@association.AssLogoUrl)" width="100%"></div>
+                        <div class="car-img"><img src="@association.AssLogoUrl" width="100%"></div>
                         <div class="car-detail">
                             <div class="car-width">
                                 <div class="address"> @association.Assname </div>
                                 <div class="address"> @association.AssAddress </div>
                                 <div class="car-info">@association.AssDescription </div>
-                                <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModalToggle1" >Your Products for Donation</button>
+                                <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModalToggle1" > <a class="btn" asp-controller="Associations" asp-action="DonateNew" asp-route-id=" @association.Assid">Your Products for Donation</a></button>
                                 <button type="button" class="btn" ><a class="btn" asp-controller="Associations" asp-action="DonateNew" asp-route-id=" @association.Assid">Donate New</a></button>
                             </div>
                         </div>
@@ -53,24 +53,27 @@
                             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                         </div>
                         <div class="modal-body">
-                            <form>
-                                    @foreach (var product in Model.Products.Where(a => a.OwnerUserId == "2").ToList())
+                            
+                                    @foreach (var product in Model.Products)
                                     {
-                                        //هنا هتكون radio button
-                                        <div class="mb-3 img">
-                                            <img src="~/css/img/bg-2.png" alt="">
+                                        <form>
+                                       
+                                       <div class="mb-3 img">
+                                            <img src="@product.PhotoUrl" alt="">
                                             <p>@product.ProductName</p>
-                                            <p>@product.Points</p>
+                                            <p>@product.Points Points</p>
+                                   <input value=" Donate Now " type="submit" asp-controller="Association" asp-action="DonateNow" asp-route-id="@product.ProductId" class="cart-btn pbtn justify-content-center "  data-bs-toggle="modal" data-bs-target="#exampleModalToggle" />
+                                   
                                         </div>
+                                          </form>
                                     }
                                     
                                
-                            </form>
+                          
                         </div>
                         <div class="modal-footer">
                             <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
                             @*donation by own product*@
-                            <button type="button" class="btn dbtn"  data-bs-toggle="modal" data-bs-target="#exampleModalToggle" >Donate Now</button>
                         </div>
                         </div>
                     </div>
