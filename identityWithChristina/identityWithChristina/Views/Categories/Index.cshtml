@@ -1,5 +1,6 @@
-﻿@model IEnumerable<identityWithChristina.Models.Category>
-
+﻿@using Microsoft.AspNetCore.Identity
+@model IEnumerable<identityWithChristina.Models.Category>
+@inject SignInManager<ApplicationUser> signInManager;
 @{
     Layout = "_Layout1";
     ViewData["Title"] = "Categories";
@@ -23,8 +24,29 @@
 	</div>
 
    <!--Categories-->
+     @if (User.IsInRole("Admin"))
+     {
+ <div class="product-section mt-150 mb-150">
+		<div class="container">
+			<div class="row">
+                <div class="col-md-12">
+                    <div class="product-filters">
+					
+                        <ul >
+                            <li class="active" data-filter="*"> <a asp-controller="Categories" asp-action="Create" class="cart-btn">Create Category</a> </li>
+						
+						
+                        </ul>
+						
 
-	        <div class="product-section mt-150 mb-150">
+                    </div>
+                </div>
+            </div>
+            </div>
+            </div>	
+
+}
+          <div class="product-section mt-150 mb-150">
 		     <div class="container">
 			   <div class="row">
 				 <div class="col-md-12">
@@ -33,11 +55,19 @@
 						@foreach (var item in Model) {
 						<div class="col-lg-4 col-md-6 text-center strawberry">
 								<div class="product-image" style="margin-bottom:40px;">
-									<a href=""><img src="@Url.Content(item.PhotoUrl)" alt=""></a>
+									<a asp-controller="Products" asp-action="Filter" asp-route-id="@item.CategoryId"><img src="@Url.Content(item.PhotoUrl)" alt=""></a>
 								</div>
 							<div>
 								<h3>@Html.DisplayFor(modelItem => item.CategoryName)</h3>
-								<a asp-controller="Products" asp-action="Filter" asp-route-id="@item.CategoryId" class="cart-btn"><i class="fas fa"></i> View Products</a>
+								@if(!User.IsInRole("Admin"))
+								{
+									<a asp-controller="Products" asp-action="Filter" asp-route-id="@item.CategoryId" class="cart-btn"><i class="fas fa"></i> View Products</a>
+								}
+								@if(User.IsInRole("Admin"))
+								{
+								<a asp-controller="Categories" asp-action="Edit" asp-route-id="@item.CategoryId" class="cart-btn">Edit Category</a>
+								<a asp-controller="Categories" asp-action="Delete" asp-route-id="@item.CategoryId" class="cart-btn"> Delete Category</a>	
+								}
 							</div>
 						</div>
 						}
@@ -47,6 +77,7 @@
 				</div>
 			</div>
 		</div>
+
 		<!-- end categories -->
 							 <link rel="stylesheet" href="~/css/css/style.css" />
 

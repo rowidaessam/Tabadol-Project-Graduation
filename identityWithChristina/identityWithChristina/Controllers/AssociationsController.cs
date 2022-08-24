@@ -253,7 +253,7 @@ namespace DBProject.Controllers
                         throw;
                     }
                 }
-                return RedirectToAction("AdminIndex");
+                return RedirectToAction("Index");
             }
             return Content("error");
         }
@@ -303,7 +303,7 @@ namespace DBProject.Controllers
             DeleteAssociation(id);
             _context.SaveChanges();
             //retrun to the list after deleting
-            return RedirectToAction("AdminIndex");
+            return RedirectToAction("Index");
 
         }
 

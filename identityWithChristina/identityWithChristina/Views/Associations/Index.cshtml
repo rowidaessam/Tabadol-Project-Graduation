@@ -20,14 +20,14 @@
 	<!-- end breadcrumb section -->
 
 	<!-- cart -->
-	<div class="cart-section mt-150 mb-150">
+	<div class="cart-section mt-150 mb-150" >
 		<div class="container">
             <div class="row">
             @foreach(var association in Model.Associations)
             {
                 if (association != null)
                 {
-                    <div class="col-sm">
+                    <div class="col-sm" >
 
                       <div class="car">
                         <div class="car-img"><img src="@association.AssLogoUrl" width="100%"></div>
@@ -67,8 +67,6 @@
                                         </div>
                                           </form>
                                     }
-                                    
-                               
                           
                         </div>
                         <div class="modal-footer">

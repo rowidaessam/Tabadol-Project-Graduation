@@ -34,13 +34,7 @@ namespace identityWithChristina.Controllers
                         Problem("Entity set 'ITIContext.Categories'  is null.");
         }
 
-        [Authorize(Roles = "Admin")]
-        public async Task<IActionResult> AdminIndex()
-        {
-            return _context.Categories != null ?
-                        View(await _context.Categories.ToListAsync()) :
-                        Problem("Entity set 'ITIContext.Categories'  is null.");
-        }
+      
 
         // GET: Categories/Create
 
