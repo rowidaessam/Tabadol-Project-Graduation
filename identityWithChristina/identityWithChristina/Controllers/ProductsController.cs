@@ -59,8 +59,7 @@ namespace identityWithChristina.Controllers
             CategoryProductViewModel CatPrd = new CategoryProductViewModel()
             {
                 Categories = _context.Categories.ToList(),
-                Products = _context.Products.Where(n=>n.CategoryId == id).ToList()
-                //Products = _context.Products.Where(n=>n.CategoryId == id && p => p.ExchangationUserId == null && p.DonationAssId == null).ToList()
+                Products = _context.Products.Where(n=>n.CategoryId == id && n.ExchangationUserId == null && n.DonationAssId == null).ToList()
             };
             return View("index", CatPrd);
 

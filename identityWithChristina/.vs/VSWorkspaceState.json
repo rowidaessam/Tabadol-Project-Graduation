@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\identityWithChristina"
+    "\\identityWithChristina",
+    "\\identityWithChristina\\Views",
+    "\\identityWithChristina\\Views\\Products"
   ],
-  "SelectedNode": "\\identityWithChristina.sln",
+  "SelectedNode": "\\identityWithChristina\\Views\\Products\\Delete.cshtml",
   "PreviewInSolutionExplorer": false
 }

@@ -27,13 +27,10 @@ namespace identityWithChristina.Models
         [DisplayFormat(DataFormatString = "{0:yyyy-MM-dd}", ApplyFormatInEditMode = true)]
         public DateTime? ShipDate { get; set; }
 
-        //[Required(ErrorMessage = "Enter the Adress Please !! ")]
         public string? ShipAddress { get; set; }
 
-        //[Required(ErrorMessage = "Enter the Total Points Please !! ")]
         public int? TotalPoints { get; set; }
 
-        //[Required(ErrorMessage = "Enter the number of products Please !! ")]
         public int? NumberOfProducts { get; set; }
 
         [Required]

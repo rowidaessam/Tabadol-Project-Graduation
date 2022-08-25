@@ -16,39 +16,29 @@ namespace identityWithChristina.Models
             ProductOwnerUsers = new HashSet<Product>();
         }
 
-      //  [Required]
         public int? Ssn { get; set; }
 
-      //  [Required(ErrorMessage = "Enter Your Points Please !! ")]
         public int? Points { get; set; }
 
-       // [Required(ErrorMessage = "Enter The Number Of Exchange Please !! ")]
         public int? NumberOfExchanges { get; set; }
 
-       // [Required(ErrorMessage = "Please Choose User Image")]
         [Display(Name = "Profile Picture")]
         public string? ProfilePictureUrl { get; set; }
 
         [StringLength(50, MinimumLength = 3)]
         [Display(Name = "Last Name")]
-       // [Required(ErrorMessage = "Max length User Name must be is 50 letter and the min is 3 letter")]
         public string? Lname { get; set; }
 
-       // [Required]
         public string? Gender { get; set; }
 
-      //  [DataType(DataType.PostalCode)]
         public string? PostalCode { get; set; }
 
-       // [Required(ErrorMessage = "Enter Your Country Please !! ")]
         [StringLength(100)]
         public string? Country { get; set; }
 
-       // [Required(ErrorMessage = "Enter Your City Please !! ")]
         [StringLength(100)]
         public string? City { get; set; }
 
-       // [Required(ErrorMessage = "Enter Your Street Please !! ")]
         [StringLength(100)]
         public string? Street { get; set; }
 

@@ -26,7 +26,6 @@ namespace identityWithChristina.Models
         [Required(ErrorMessage = "Enter Your Points Please !! ")]
         public int Points { get; set; }
 
-        //[Required(ErrorMessage = "Enter Product Description please !! ")]
         [StringLength(200, MinimumLength = 20)]
         [Display(Name = "Product Description")]
         public string ProductDescription { get; set; }
@@ -35,7 +34,6 @@ namespace identityWithChristina.Models
         [Display(Name = "Product Image")]
         public string PhotoUrl { get; set; }
 
-        //[Required]
         [ForeignKey("Category")]
         public int? CategoryId { get; set; }
 

@@ -18,7 +18,6 @@ namespace identityWithChristina.Controllers
         private readonly ITIContext _context;
         private readonly UserManager<ApplicationUser> _userManager;
 
-        //private readonly UserManager<IdentityUser> _userManager;
         public CartController(ITIContext context, UserManager<ApplicationUser> userManager)
         {
             _context = context;
@@ -138,24 +137,7 @@ namespace identityWithChristina.Controllers
 
         }
 
-        //public IActionResult Delete(int? Oid, int? Pid)
-        //{
-        //    if (Oid == null || Pid == null)
-        //    {
-        //        return NotFound();
-        //    }
-
-        //    var orderDetail = _context.OrderDetails
-        //        .Include(o => o.Odrer)
-        //        .Include(o => o.Product)
-        //        .FirstOrDefaultAsync(m => m.OdrerId == Oid && m.ProductId == Pid);
-        //    if (orderDetail == null)
-        //    {
-        //        return NotFound();
-        //    }
-
-        //    return View(orderDetail);
-        //}
+       
 
 
         //[HttpPost, ActionName("Delete")]

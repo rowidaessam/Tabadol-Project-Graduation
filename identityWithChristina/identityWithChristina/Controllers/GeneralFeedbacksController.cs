@@ -60,9 +60,6 @@ namespace identityWithChristina.Controllers
         {
             var iTIContext = _context.GeneralFeedbacks.Include(g => g.User).ToList();
             ViewData["feedlist"] = iTIContext;
-            //string userid = userManager.GetUserId(User);
-            //ViewData["UserId"] = userid;
-            //ViewData["UserId"] = new SelectList(_context.ApplicationUsers, "Id", "Id");
             return View();
         }
 
