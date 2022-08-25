@@ -9,6 +9,7 @@ using identityWithChristina;
 using Microsoft.AspNetCore.Identity;
 using identityWithChristina.Models;
 using identityWithChristina.ViewModel;
+using Microsoft.AspNetCore.Authorization;
 
 namespace DBProject.Controllers
 {
@@ -56,6 +57,7 @@ namespace DBProject.Controllers
             return o;
         }
 
+        [Authorize]
         [HttpGet]
         public IActionResult DonateUserProduct(int id)
         {
@@ -78,6 +80,7 @@ namespace DBProject.Controllers
         }
 
         //--------Donate New product for Association--//
+        [Authorize]
         [HttpGet]
         public IActionResult DonateNew(int id)
         {
@@ -160,27 +163,11 @@ namespace DBProject.Controllers
         }
 
 
-
-
-
-
-
-
-        //----------------------------------------Admin Actions For Associations----------------------------------------//
-
-
-        #region AdminIndex  // Index View for admin
-        public async Task<IActionResult> AdminIndex()
-        {
-            IEnumerable<Association> list = _context.Associations.ToList();
-            return View(list);
-        }
-        #endregion
-
         //-----------------------------------------------------------------------------------------------------//
 
 
         #region Create New Association
+        [Authorize(Roles = "Admin")]
         [HttpGet]
         public async Task<IActionResult> Create()
         {
@@ -244,6 +231,7 @@ namespace DBProject.Controllers
             return Entity;
         }
 
+        [Authorize(Roles = "Admin")]
         [HttpGet]
         public async Task<IActionResult> Edit(int? id)
         {
@@ -326,6 +314,7 @@ namespace DBProject.Controllers
             _context.SaveChanges();
         }
 
+        [Authorize(Roles = "Admin")]
         public IActionResult Delete(int id)
         {
 
