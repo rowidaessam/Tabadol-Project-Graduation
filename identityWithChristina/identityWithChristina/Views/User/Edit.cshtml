@@ -41,7 +41,7 @@ top: 13px;
                   <div class="col-md-6 mb-4">
                     <div class="form-outline">
                        <label class="form-label" for="form3Example1n">City</label>
-                      <input type="text" placeholder=@Model.city class="form-control form-control-lg" />
+                      <input asp-for="city" type="text" placeholder=@Model.city class="form-control form-control-lg" />
                     </div>
                   </div>
                 </div>
@@ -87,28 +87,7 @@ top: 13px;
               
 
                 </div>
-                <div class="row">
-                  <div class="col-md-6 mb-4">
-                     
-                    <select asp-for="country" class="select">
-                      <option value="1">State</option>
-                      <option value="2">Option 1</option>
-                      <option value="3">Option 2</option>
-                      <option value="4">Option 3</option>
-                    </select>
-
-                  </div>
-                  <div class="col-md-6 mb-4">
-
-                    <select asp-for="city" class="select">
-                      <option value="1">City</option>
-                      <option value="2">Option 1</option>
-                      <option value="3">Option 2</option>
-                      <option value="4">Option 3</option>
-                    </select>
-
-                  </div>
-                </div>
+              
 
                 <div class="form-outline mb-4">
                   <label class="form-label" for="form3Example9">Postal Code</label>
@@ -126,8 +105,8 @@ top: 13px;
                 </div>
 
                 <div class="form-outline mb-4">
-                   <label class="form-label" for="form3Example97">Number Of Exchanges</label>
-                  <input type="number" asp-for="points" max="100" class="form-control form-control-lg" />
+                   @*<label class="form-label" for="form3Example97">Number Of Exchanges</label>*@
+                  <input type="hidden" asp-for="points" max="100" class="form-control form-control-lg" />
                 </div>
 
                 <div class="d-flex justify-content-center pt-3">

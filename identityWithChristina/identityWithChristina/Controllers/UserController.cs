@@ -1,5 +1,6 @@
 ﻿using identityWithChristina.Models;
 using identityWithChristina.ViewModel;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
@@ -22,6 +23,7 @@ namespace identityWithChristina.Controllers
 
 
         // GET: UserController
+       
         public ActionResult Index()
         {
             string userid = userManager.GetUserId(User);
@@ -81,7 +83,6 @@ namespace identityWithChristina.Controllers
             editObj.phone = obj.PhoneNumber;
             editObj.Lname=obj.Lname;
             editObj.ssn=obj.Ssn;
-           
             editObj.gender=obj.Gender;
             editObj.postalCode=obj.PostalCode;
 
@@ -125,6 +126,7 @@ namespace identityWithChristina.Controllers
                 appUser.Email = pro.email;
                 appUser.Gender = pro.gender;
                 appUser.Lname = pro.Lname;
+                appUser.PhoneNumber = pro.phone;
                 appUser.ProfilePictureUrl = accPath;
 
                 _context.Update(appUser);

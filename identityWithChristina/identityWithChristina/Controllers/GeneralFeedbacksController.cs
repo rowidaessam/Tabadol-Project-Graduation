@@ -91,6 +91,7 @@ namespace identityWithChristina.Controllers
         }
 
         // GET: GeneralFeedbacks/Edit/5
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null || _context.GeneralFeedbacks == null)
@@ -144,6 +145,8 @@ namespace identityWithChristina.Controllers
         }
 
         // GET: GeneralFeedbacks/Delete/5
+        [Authorize(Roles = "Admin")]
+
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null || _context.GeneralFeedbacks == null)
