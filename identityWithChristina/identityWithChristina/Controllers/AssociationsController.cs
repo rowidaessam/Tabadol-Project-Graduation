@@ -9,7 +9,6 @@ using identityWithChristina;
 using Microsoft.AspNetCore.Identity;
 using identityWithChristina.Models;
 using identityWithChristina.ViewModel;
-using Microsoft.AspNetCore.Authorization;
 
 namespace DBProject.Controllers
 {
@@ -29,19 +28,57 @@ namespace DBProject.Controllers
         //Displaying Associations
         public async Task<IActionResult> Index()
         {
-            AssociationUserViewModel v = new()
+            AssociationUserViewModel a = new()
             {
-                Products = _context.Products.Where(p=>p.OwnerUserId == userManager.GetUserId(User) && p.ExchangationUserId ==null && p.DonationAssId == null).ToList(),
-                Associations = _context.Associations.ToList()
+                Associations = _context.Associations.ToList(),
+                Products = _context.Products.Where(a => a.OwnerUserId == userManager.GetUserId(User))
 
             };
-            return View(v);
+            return View(a);
+        }
+        //-----Donate User Product-----//
+
+
+        public Product ProductDonated(int id, Product Entity)
+        {
+            Product o = _context.Products.FirstOrDefault(a => a.ProductId == Entity.ProductId);
+            if (o != null)
+            {
+                o.ProductName = Entity.ProductName;
+                o.ProductDescription = Entity.ProductDescription;
+                o.DonationAssId = id;
+                o.Points = Entity.Points;
+                o.PhotoUrl = Entity.PhotoUrl;
+
+            }
+            _context.SaveChanges();
+
+            return o;
         }
 
+        [HttpGet]
+        public IActionResult DonateUserProduct(int id)
+        {
+            ProductAssociationViewModel b = new()
+            {
+                association = _context.Associations.FirstOrDefault(a => a.Assid == id),
+                products = _context.Products.Where(a => a.OwnerUserId == userManager.GetUserId(User)).ToList()
+
+            };
+            return View(b);
+        }
+
+        [HttpPost]
+        public IActionResult DonateUserProduct(int id, [Bind("association")] ProductAssociationViewModel _Product)
+        {
+            Product o = _context.Products.FirstOrDefault(a => a.ProductId == id);
+            Association x = _context.Associations.FirstOrDefault(a => a.Assid == _Product.association.Assid);
+            ProductDonated(x.Assid, o);
+            return RedirectToAction("DonateUserProduct", "Associations", _Product);
+        }
 
         //--------Donate New product for Association--//
         [HttpGet]
-        [Authorize]
         public IActionResult DonateNew(int id)
         {
             ViewBag.categoryee = new SelectList(_context.Categories.ToList(), "CategoryId", "CategoryName");
@@ -55,7 +92,7 @@ namespace DBProject.Controllers
         }
 
         [HttpPost]
-        [Authorize]
+        //[Authorize]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DonateNew(IFormFile file, [Bind("product,association")] ProductAssociationViewModel _Product)
         {
@@ -133,8 +170,6 @@ namespace DBProject.Controllers
 
 
         #region AdminIndex  // Index View for admin
-
-        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> AdminIndex()
         {
             IEnumerable<Association> list = _context.Associations.ToList();
@@ -147,7 +182,6 @@ namespace DBProject.Controllers
 
         #region Create New Association
         [HttpGet]
-        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Create()
         {
 
@@ -161,26 +195,25 @@ namespace DBProject.Controllers
             ViewBag.request = "Create";
             var a = association.Assid.ToString();
             a = userManager.GetUserId(User);
-            //association.Assid = a;
             Createassociation(association);
             if (file != null)
             {
                 if (file.ContentType.ToLower().Contains("image"))
                 {
-                    string path = "wwwroot/AssociationImage/" + association.Assid;
+                    string path = "wwwroot/css/img/company-logos/" + association.Assid;
                     Directory.CreateDirectory("./" + path);
-                    association.AssLogoUrl = "/AssociationImage/" + association.Assid + "/" + file.FileName;
+                    association.AssLogoUrl = "/company-logo/" + association.Assid + "/" + file.FileName;
                     using (var img = new FileStream(path + "/" + file.FileName, FileMode.Create))
                     {
                         file.CopyTo(img);
                     }
                     Update_Association(association);
-                    return RedirectToAction("AdminIndex", "Associations");
+                    return Content("Association Created");
                 }
             }
             if (association.Assid != 0)
             {
-                return RedirectToAction("Index", "Associations");
+                return Content("Association added");
             }
 
 
@@ -212,7 +245,6 @@ namespace DBProject.Controllers
         }
 
         [HttpGet]
-        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null || _context.Associations == null)
@@ -230,7 +262,6 @@ namespace DBProject.Controllers
 
 
         [HttpPost]
-
         public async Task<IActionResult> Edit([Bind("Assid,Assname,AssDescription,AssAddress,AssPhone,AssLogoUrl")] Association association)
         {
             Association newAssociation = _context.Associations.FirstOrDefault(a => a.Assid == association.Assid);
@@ -253,7 +284,7 @@ namespace DBProject.Controllers
                         throw;
                     }
                 }
-                return RedirectToAction("Index");
+                return Content("Association Updated");
             }
             return Content("error");
         }
@@ -295,7 +326,6 @@ namespace DBProject.Controllers
             _context.SaveChanges();
         }
 
-        [Authorize(Roles = "Admin")]
         public IActionResult Delete(int id)
         {
 
@@ -303,7 +333,7 @@ namespace DBProject.Controllers
             DeleteAssociation(id);
             _context.SaveChanges();
             //retrun to the list after deleting
-            return RedirectToAction("Index");
+            return RedirectToAction("AdminIndex");
 
         }
 
@@ -312,24 +342,7 @@ namespace DBProject.Controllers
 
 
 
-        // POST: Associations/Delete/5
-        //[HttpPost, ActionName("Delete")]
-        //[ValidateAntiForgeryToken]
-        //public async Task<IActionResult> DeleteConfirmed(int id)
-        //{
-        //    if (_context.Associations == null)
-        //    {
-        //        return Problem("Entity set 'TabadolContext.Associations'  is null.");
-        //    }
-        //    var association = await _context.Associations.FindAsync(id);
-        //    if (association != null)
-        //    {
-        //        _context.Associations.Remove(association);
-        //    }
 
-        //    await _context.SaveChangesAsync();
-        //    return RedirectToAction(nameof(AdminIndex));
-        //}
 
         private bool AssociationExists(int id)
         {

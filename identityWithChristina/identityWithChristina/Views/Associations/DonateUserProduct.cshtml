@@ -1,0 +1,78 @@
+﻿
+@{
+    ViewData["Title"] = "Your Products For Donation";
+    Layout = "_Layout1";
+}
+
+@using identityWithChristina.ViewModel
+@model ProductAssociationViewModel
+
+	<!-- breadcrumb-section -->
+	<div class="breadcrumb-section breadcrumb-bg">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-8 offset-lg-2 text-center">
+					<div class="breadcrumb-text">
+						<h1>Donating For @Model.association?.Assname</h1>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- end breadcrumb section -->
+
+	<!-- products -->
+	
+		<div class="container">
+			<div class="row">
+               
+            </div>
+            </div>
+          <form method="post">
+            <div class="row product-lists">
+			@foreach (var item in Model.products) 
+            {
+				if(item !=null && item.DonationAssId==null)
+				{
+					<div  class="col-lg-4 col-md-6 text-center @item.CategoryId">
+					<div class="single-product-item">
+						<div class="product-image">
+							<a href=""><img src="@Url.Content(item.PhotoUrl)"></a>
+						</div>
+						<h3>@Html.DisplayFor(modelItem => item.ProductName)</h3>
+						<p class="product-price">@Html.DisplayFor(modelItem => item.Points) </p>
+						 <input hidden asp-for="association.Assid" />
+						 <input hidden asp-for="association">
+						
+
+						<button class="cart-btn"  asp-action="DonateUserProduct" asp-controller="Associations"  asp-route-id="@item.ProductId" onclick="return confirm('do you want to Donate @item.ProductName to @Model.association?.Assname')">Donate Now</button>
+					</div>
+				</div>
+				}
+			
+                
+				
+            }
+			</div>
+			</form>
+	<!-- end products -->
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Poppins:400,700&display=swap" rel="stylesheet">
+	<!-- fontawesome -->
+	<link rel="stylesheet" href="assets/css/all.min.css">
+	<!-- bootstrap -->
+	<link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+	<!-- owl carousel -->
+	<link rel="stylesheet" href="assets/css/owl.carousel.css">
+	<!-- magnific popup -->
+	<link rel="stylesheet" href="assets/css/magnific-popup.css">
+	<!-- animate css -->
+	<link rel="stylesheet" href="assets/css/animate.css">
+	<!-- mean menu css -->
+	<link rel="stylesheet" href="assets/css/meanmenu.min.css">
+	<!-- main style -->
+	<link rel="stylesheet" href="assets/css/main.css">
+	<!-- responsive -->
+	<link rel="stylesheet" href="assets/css/responsive.css">
+    <link rel="stylesheet" href="assets/css/products.css">
+

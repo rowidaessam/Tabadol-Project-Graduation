@@ -6,5 +6,6 @@ namespace identityWithChristina.ViewModel
     {
         public Product product { get; set; }
         public Association association { get; set; }
+        public ICollection<Product> products { get; set; }
     }
 }

@@ -1,8 +1,9 @@
-﻿@{
-    Layout = "_Layout1";
+﻿@model IEnumerable<Association>
+
+@{
+    Layout="_Layout1";
     ViewBag.Title = "Admin Donations";
 }
-@model IEnumerable<Association>;
 <link rel="stylesheet" href="~/css/css/donate.css" />
 <!-- breadcrumb-section -->
 	<div class="breadcrumb-section breadcrumb-bg">
@@ -50,8 +51,8 @@
             }   
             }
             </div>
-              <button type="button" class="btn btn-info"  style="text-align:center"><a style="color:white;" asp-action="Create" asp-controller="Associations">Create Association</a></button>
-           
+@*              <button type="button" class="btn btn-info"  style="text-align:center"><a style="color:white;" asp-action="Create" asp-controller="Associations">Create Association</a></button>
+*@           
               
                
 

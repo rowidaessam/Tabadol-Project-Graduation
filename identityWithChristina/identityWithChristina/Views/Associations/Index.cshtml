@@ -2,7 +2,7 @@
     Layout="_Layout1";
     ViewBag.Title = "Donations";
 }
-@model AssociationUserViewModel
+@model AssociationUserViewModel;
 <link rel="stylesheet" href="~/css/css/donate.css" />
 <!-- breadcrumb-section -->
 	<div class="breadcrumb-section breadcrumb-bg">
@@ -20,14 +20,37 @@
 	<!-- end breadcrumb section -->
 
 	<!-- cart -->
-	<div class="cart-section mt-150 mb-150" >
+     @if (User.IsInRole("Admin"))
+{
+    
+    <div class="product-section mt-100 mb-150">
+		<div class="container">
+			<div class="row">
+                <div class="col-md-12">
+                    <div class="product-filters">
+					
+                        <ul >
+                            <li class="active" data-filter="*"> <a asp-controller="Associations" asp-action="Create" class="cart-btn">Create Association</a> </li>
+						
+						
+                        </ul>
+						
+
+                    </div>
+                </div>
+            </div>
+            </div>
+            </div>	
+}
+<div class="cart-section mt-150 mb-150">
 		<div class="container">
             <div class="row">
+
             @foreach(var association in Model.Associations)
             {
                 if (association != null)
                 {
-                    <div class="col-sm" >
+                    <div class="col-sm">
 
                       <div class="car">
                         <div class="car-img"><img src="@association.AssLogoUrl" width="100%"></div>
@@ -36,46 +59,25 @@
                                 <div class="address"> @association.Assname </div>
                                 <div class="address"> @association.AssAddress </div>
                                 <div class="car-info">@association.AssDescription </div>
-                                <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#exampleModalToggle1" > <a class="btn" asp-controller="Associations" asp-action="DonateNew" asp-route-id=" @association.Assid">Your Products for Donation</a></button>
-                                <button type="button" class="btn" ><a class="btn" asp-controller="Associations" asp-action="DonateNew" asp-route-id=" @association.Assid">Donate New</a></button>
-                            </div>
+                                 @if (User.IsInRole("Admin"))
+                                 {
+                               <a class="cart-btn" asp-action="Edit" asp-route-id=" @association.Assid" asp-controller="Associations" >Edit Associaction </a><br><br />
+                               <a class="cart-btn" asp-action="Delete" asp-route-id=" @association.Assid" asp-controller="Associations" onclick="return confirm('do you want to delete @association.Assname association')">Delete Associaction</a><br /> <br />
+                                 }
+                                @if (!User.IsInRole("Admin"))
+                                 {
+                                <a class="cart-btn"asp-controller="Associations" asp-action="DonateUserProduct" asp-route-id="@association.Assid">Your Products for Donation</a><br /><br />
+                                <a class="cart-btn"asp-controller="Associations" asp-action="DonateNew" asp-route-id=" @association.Assid">Donate New</a><br /><br />
+                           
+                                 }
+     </div>
                         </div>
                     </div>  
               
               </div>
                 }
             }
-               <div class="modal fade " id="exampleModalToggle1" tabindex="-1" aria-labelledby="exampleModalToggleLabel1" aria-hidden="true">
-                    <div class="modal-dialog modal-dialog-centered">
-                        <div class="modal-content">
-                        <div class="modal-header">
-                            <h5 class="modal-title" id="exampleModalToggleLabel1">Your own Products</h5>
-                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                        </div>
-                        <div class="modal-body">
-                            
-                                    @foreach (var product in Model.Products)
-                                    {
-                                        <form>
-                                       
-                                       <div class="mb-3 img">
-                                            <img src="@product.PhotoUrl" alt="">
-                                            <p>@product.ProductName</p>
-                                            <p>@product.Points Points</p>
-                                   <input value=" Donate Now " type="submit" asp-controller="Association" asp-action="DonateNow" asp-route-id="@product.ProductId" class="cart-btn pbtn justify-content-center "  data-bs-toggle="modal" data-bs-target="#exampleModalToggle" />
-                                   
-                                        </div>
-                                          </form>
-                                    }
-                          
-                        </div>
-                        <div class="modal-footer">
-                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                            @*donation by own product*@
-                        </div>
-                        </div>
-                    </div>
-                    </div>
+        
                
 
                    
