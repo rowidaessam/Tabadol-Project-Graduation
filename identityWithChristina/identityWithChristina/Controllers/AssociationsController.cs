@@ -64,7 +64,7 @@ namespace DBProject.Controllers
             ProductAssociationViewModel b = new()
             {
                 association = _context.Associations.FirstOrDefault(a => a.Assid == id),
-                products = _context.Products.Where(a => a.OwnerUserId == userManager.GetUserId(User)).ToList()
+                products = _context.Products.Where(a => a.OwnerUserId == userManager.GetUserId(User) && a.ExchangationUserId == null && a.DonationAssId == null).ToList()
 
             };
             return View(b);
