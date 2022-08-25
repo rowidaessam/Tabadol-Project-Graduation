@@ -19,6 +19,7 @@ namespace identityWithChristina.ViewModel
         [DataType(DataType.Password)]
         [Compare("password",ErrorMessage ="noot matched")]
         public string ConfirmPassword { get; set; }
+        //public int numberofexchange { get; set; }
 
     }
 }

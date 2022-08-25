@@ -29,6 +29,8 @@ namespace identityWithChristina.Controllers
             ApplicationUser us = new ApplicationUser();
             us.UserName = newAccount.UserName;
             us.Email = newAccount.Email;
+            us.NumberOfExchanges = 0;
+            us.Points = 100;
 
 
             IdentityResult r = await userManager.CreateAsync(us, newAccount.password);

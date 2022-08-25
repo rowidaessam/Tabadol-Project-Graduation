@@ -49,7 +49,7 @@ namespace identityWithChristina.Controllers
 
                 model.Order = _context.Orders.Include(o => o.OrderDetails).FirstOrDefault(o => o.UserId == userid && o.OrderDate == null);
                 model.OrderDetails = _context.OrderDetails.Include(o => o.Product).Where(o => o.OdrerId == model.Order.OrderId).ToList();
-
+                model.msg = id.msg;
             }
             return View(model);
         }
@@ -65,6 +65,7 @@ namespace identityWithChristina.Controllers
 
             if (ModelState.IsValid)
             {
+
                 Order order = _context.Orders.Include(o => o.OrderDetails).SingleOrDefault(o => o.OrderId == id);
                 try
                 {
@@ -73,23 +74,33 @@ namespace identityWithChristina.Controllers
                     order.ShipDate = DateTime.Now.AddDays(10);
                     order.ShipAddress = ShipAdd;
                     order.TotalPoints += 50;
-                    foreach (var item in order.OrderDetails)
+                    var ExUser = _context.ApplicationUsers.SingleOrDefault(u => u.Id == _userManager.GetUserId(User));
+                    if (ExUser.Points >= order.TotalPoints)
                     {
-                        Product product = _context.Products.SingleOrDefault(p => p.ProductId == item.ProductId);
-                        product.ExchangationUserId = _userManager.GetUserId(User);
-                        _context.Update(product);
+                        ExUser.Points -= order.TotalPoints;
+                        _context.Update(ExUser);
                         _context.SaveChanges();
-                        var OwnerUser = _context.ApplicationUsers.SingleOrDefault(u => u.Id == product.OwnerUserId);
-                        OwnerUser.Points += product.Points;
-                        _context.Update(OwnerUser);
+                        foreach (var item in order.OrderDetails)
+                        {
+                            Product product = _context.Products.SingleOrDefault(p => p.ProductId == item.ProductId);
+                            product.ExchangationUserId = _userManager.GetUserId(User);
+                            _context.Update(product);
+                            _context.SaveChanges();
+                            var OwnerUser = _context.ApplicationUsers.SingleOrDefault(u => u.Id == product.OwnerUserId);
+                            OwnerUser.Points += product.Points;
+                            OwnerUser.NumberOfExchanges += 1;
+                            _context.Update(OwnerUser);
+                            _context.SaveChanges();
+                        }
+                        _context.Update(order);
                         _context.SaveChanges();
                     }
-                    var ExUser = _context.ApplicationUsers.SingleOrDefault(u => u.Id == _userManager.GetUserId(User));
-                    ExUser.Points -= order.TotalPoints;
-                    _context.Update(ExUser);
-                    _context.SaveChanges();
-                    _context.Update(order);
-                    _context.SaveChanges();
+                    else
+                    {
+                        CartViewModel model = new CartViewModel();
+                        model.msg = "Don't have enough Points!!";
+                        return RedirectToAction(nameof(checkout), model);
+                    }
                 }
                 catch (DbUpdateConcurrencyException)
                 {
@@ -112,13 +123,16 @@ namespace identityWithChristina.Controllers
             if (UnExchangedOrderExist(userid))
             {
                 var order = _context.Orders.Include(o => o.OrderDetails).FirstOrDefault(o => o.UserId == userid && o.OrderDate == null);
-                orderDetail.OdrerId = order.OrderId;
-                orderDetail.DisCount = 0;
-                orderDetail.NetPoints = orderDetail.PointsPerUnite;
-                order.OrderDetails.Add(orderDetail);
-                order.NumberOfProducts += 1;
-                order.TotalPoints += orderDetail.NetPoints.Value;
-                _context.SaveChanges();
+                if (!OrderDetailExist(order.OrderId, id))
+                {
+                    orderDetail.OdrerId = order.OrderId;
+                    orderDetail.DisCount = 0;
+                    orderDetail.NetPoints = orderDetail.PointsPerUnite;
+                    order.OrderDetails.Add(orderDetail);
+                    order.NumberOfProducts += 1;
+                    order.TotalPoints += orderDetail.NetPoints.Value;
+                    _context.SaveChanges();
+                }
             }
             else
             {
@@ -137,7 +151,7 @@ namespace identityWithChristina.Controllers
 
         }
 
-       
+
 
 
         //[HttpPost, ActionName("Delete")]
@@ -168,6 +182,10 @@ namespace identityWithChristina.Controllers
         private bool UnExchangedOrderExist(string userid)
         {
             return _context.Orders.Any(o => o.UserId == userid && o.OrderDate == null);
+        }
+        private bool OrderDetailExist(int Oid, int Pid)
+        {
+            return _context.OrderDetails.Any(o => o.OdrerId == Oid && o.ProductId == Pid);
         }
     }
 }
