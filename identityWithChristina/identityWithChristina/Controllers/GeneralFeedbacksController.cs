@@ -74,7 +74,7 @@ namespace identityWithChristina.Controllers
 
             string userid = userManager.GetUserId(User);
             GeneralFeedback g=new GeneralFeedback();
-            g.Rate = 1;
+            g.Rate = gfb.Rate;
             g.Date= DateTime.Now;
             g.Message = gfb.message;
             g.UserId = userid;
