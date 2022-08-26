@@ -195,12 +195,12 @@ namespace DBProject.Controllers
                         file.CopyTo(img);
                     }
                     Update_Association(association);
-                    return Content("Association Created");
+                    return RedirectToAction("index", "Associations");
                 }
             }
             if (association.Assid != 0)
             {
-                return Content("Association added");
+                return View(association);
             }
 
 
@@ -272,7 +272,8 @@ namespace DBProject.Controllers
                         throw;
                     }
                 }
-                return Content("Association Updated");
+                return RedirectToAction("index", "Associations");
+
             }
             return Content("error");
         }
@@ -322,7 +323,7 @@ namespace DBProject.Controllers
             DeleteAssociation(id);
             _context.SaveChanges();
             //retrun to the list after deleting
-            return RedirectToAction("AdminIndex");
+            return RedirectToAction("Index");
 
         }
 

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3wfUpvxPv4Ob0H6P9gtPm4ZoHtmwKG3nfpB+ybpB9w8=",
+  "Hash": "YXKSQiVykNK5slAhgrxRuLs6VmOJkA+mb41X1Iwc7hs=",
   "Source": "identityWithChristina",
   "BasePath": "_content/identityWithChristina",
   "Mode": "Default",
@@ -1513,6 +1513,23 @@
       "OriginalItemSpec": "wwwroot\\css\\img\\company-logos\\1\\Resala.png"
     },
     {
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\company-logos\\1006\\D6NzWyUXsAAF6At.jpg",
+      "SourceId": "identityWithChristina",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "BasePath": "_content/identityWithChristina",
+      "RelativePath": "css/img/company-logos/1006/D6NzWyUXsAAF6At.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\img\\company-logos\\1006\\D6NzWyUXsAAF6At.jpg"
+    },
+    {
       "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\css\\img\\company-logos\\2.png",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
@@ -2618,12 +2635,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\gallary\\FB_IMG_1590210191551.jpgZagazig.jpg",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\gallary\\FB_IMG_1567287646388.jpg6 October.jpg",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
-      "RelativePath": "gallary/FB_IMG_1590210191551.jpgZagazig.jpg",
+      "RelativePath": "gallary/FB_IMG_1567287646388.jpg6 October.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2632,7 +2649,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\gallary\\FB_IMG_1590210191551.jpgZagazig.jpg"
+      "OriginalItemSpec": "wwwroot\\gallary\\FB_IMG_1567287646388.jpg6 October.jpg"
     },
     {
       "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\gallary\\FB_IMG_1590830203918.jpg.jpg",
@@ -2703,6 +2720,23 @@
       "OriginalItemSpec": "wwwroot\\gallary\\FB_IMG_1602772856225.jpgMaadi.jpg"
     },
     {
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\gallary\\FB_IMG_682688499160895091.jpg6 October.jpg",
+      "SourceId": "identityWithChristina",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "BasePath": "_content/identityWithChristina",
+      "RelativePath": "gallary/FB_IMG_682688499160895091.jpg6 October.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\gallary\\FB_IMG_682688499160895091.jpg6 October.jpg"
+    },
+    {
       "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\gallary\\im.jfifbarakat.jfif",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
@@ -2754,12 +2788,12 @@
       "OriginalItemSpec": "wwwroot\\gallary\\images.jpgnozhaElgadida.jpg"
     },
     {
-      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\gallary\\IMG_1646933383676.jpgZagazig.jpg",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\gallary\\img.png.webp6 October.webp",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
-      "RelativePath": "gallary/IMG_1646933383676.jpgZagazig.jpg",
+      "RelativePath": "gallary/img.png.webp6 October.webp",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2768,15 +2802,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\gallary\\IMG_1646933383676.jpgZagazig.jpg"
+      "OriginalItemSpec": "wwwroot\\gallary\\img.png.webp6 October.webp"
     },
     {
-      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\gallary\\IMG-20220308-WA0029.jpg.jpg",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\gallary\\IMG-20220222-WA0013.jpg6 October.jpg",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
-      "RelativePath": "gallary/IMG-20220308-WA0029.jpg.jpg",
+      "RelativePath": "gallary/IMG-20220222-WA0013.jpg6 October.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2785,15 +2819,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\gallary\\IMG-20220308-WA0029.jpg.jpg"
+      "OriginalItemSpec": "wwwroot\\gallary\\IMG-20220222-WA0013.jpg6 October.jpg"
     },
     {
-      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\gallary\\IMG-20220308-WA0078.jpgZagazig.jpg",
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\gallary\\IMG-20220222-WA0024.jpg6 October.jpg",
       "SourceId": "identityWithChristina",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
       "BasePath": "_content/identityWithChristina",
-      "RelativePath": "gallary/IMG-20220308-WA0078.jpgZagazig.jpg",
+      "RelativePath": "gallary/IMG-20220222-WA0024.jpg6 October.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2802,7 +2836,24 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\gallary\\IMG-20220308-WA0078.jpgZagazig.jpg"
+      "OriginalItemSpec": "wwwroot\\gallary\\IMG-20220222-WA0024.jpg6 October.jpg"
+    },
+    {
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\gallary\\IMG-20220308-WA0029.jpg6 October.jpg",
+      "SourceId": "identityWithChristina",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "BasePath": "_content/identityWithChristina",
+      "RelativePath": "gallary/IMG-20220308-WA0029.jpg6 October.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\gallary\\IMG-20220308-WA0029.jpg6 October.jpg"
     },
     {
       "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\gallary\\IMG-20220308-WA0079.jpgMadinaMonwara.jpg",
@@ -2820,6 +2871,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\gallary\\IMG-20220308-WA0079.jpgMadinaMonwara.jpg"
+    },
+    {
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\gallary\\IMG-20220308-WA0079.jpgZagazig.jpg",
+      "SourceId": "identityWithChristina",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "BasePath": "_content/identityWithChristina",
+      "RelativePath": "gallary/IMG-20220308-WA0079.jpgZagazig.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\gallary\\IMG-20220308-WA0079.jpgZagazig.jpg"
     },
     {
       "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\gallary\\rahma.jpg",
@@ -4962,6 +5030,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\productsImages\\3062\\pngaaa.com-254428.png"
+    },
+    {
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\productsImages\\3063\\193348438_1163033080872399_3211073326961275931_n.jpg",
+      "SourceId": "identityWithChristina",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "BasePath": "_content/identityWithChristina",
+      "RelativePath": "productsImages/3063/193348438_1163033080872399_3211073326961275931_n.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\productsImages\\3063\\193348438_1163033080872399_3211073326961275931_n.jpg"
     }
   ]
 }
