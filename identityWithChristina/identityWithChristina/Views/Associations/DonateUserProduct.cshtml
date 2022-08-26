@@ -23,14 +23,14 @@
 
 	<!-- products -->
 	
-		<div class="container">
-			<div class="row">
+		<div class="container ">
+			<div class="row mt-5">
                
             </div>
             </div>
 
           <form method="post">
-            <div class="row product-lists">
+            <div class="row product-lists text-center mx-5">
 			@foreach (var item in Model.products) 
             {
 				if(item !=null && item.DonationAssId==null)
@@ -38,7 +38,7 @@
 					<div  class="col-lg-4 col-md-6 text-center @item.CategoryId">
 					<div class="single-product-item">
 						<div class="product-image">
-							<a href=""><img src="@Url.Content(item.PhotoUrl)"></a>
+							<a href=""><img src="@Url.Content(item.PhotoUrl)" style="height:250px;width:200px" ></a>
 						</div>
 						<h3>@Html.DisplayFor(modelItem => item.ProductName)</h3>
 						<p class="product-price">@Html.DisplayFor(modelItem => item.Points) </p>
@@ -46,7 +46,7 @@
 						 <input hidden asp-for="association">
 						
 
-						<button class="cart-btn"  asp-action="DonateUserProduct" asp-controller="Associations"  asp-route-id="@item.ProductId" onclick="return confirm('do you want to Donate @item.ProductName to @Model.association?.Assname')">Donate Now</button>
+						<button class="cart-btn"asp-action="DonateUserProduct" asp-controller="Associations"  asp-route-id="@item.ProductId" onclick="return confirm('do you want to Donate @item.ProductName to @Model.association?.Assname')">Donate Now</button>
 					</div>
 				</div>
 				}
@@ -56,6 +56,20 @@
             }
 			</div>
 			</form>
+			<style>
+			.cart-btn{
+				background-color:#F28123;
+				border-radius:50px;
+				border:none;
+				padding:20px;
+				color:white;
+				
+			}
+			.cart-btn:hover{
+				  background-color: #051922;
+				  color: #F28123;
+			}
+			</style>
 	<!-- end products -->
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Poppins:400,700&display=swap" rel="stylesheet">

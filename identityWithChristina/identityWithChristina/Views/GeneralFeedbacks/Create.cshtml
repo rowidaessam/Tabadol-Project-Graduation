@@ -74,7 +74,23 @@
 					<img class="rounded-circle shadow-1-strong me-3"
 					  src=@item.User.ProfilePictureUrl alt="avatar" width="60"
 					  height="60" />
+					
 					<div>
+						  <div style="margin-left:90px">
+						  @if (User.IsInRole("Admin"))
+									{
+											<nav class="main-menu" style="margin-left:90px">
+					                 	<ul>
+					                <li style="float:right"> 
+								    <a><i class="fa-solid fa-ellipsis"></i></a>
+									<ul class="sub-menu">
+									<li><a asp-area="" asp-controller="GeneralFeedbacks" asp-action="Delete" asp-route-id="@item.FeedId">Delete</a></li>
+									</ul>
+									</li>
+								        </ul>
+								               </nav>
+									}
+					  </div>	
 					  <h6 class="fw-bold text-warning mb-1"> @item.User.UserName</h6>
 					  <p class="text-muted small mb-0">
 						Shared publicly - @item.Date
