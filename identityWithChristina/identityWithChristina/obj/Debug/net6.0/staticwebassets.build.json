@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YXKSQiVykNK5slAhgrxRuLs6VmOJkA+mb41X1Iwc7hs=",
+  "Hash": "priVMq+5r05U4AKPN+B+8jTMn/LbsnDPd70OdTRYRBQ=",
   "Source": "identityWithChristina",
   "BasePath": "_content/identityWithChristina",
   "Mode": "Default",
@@ -5047,6 +5047,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\productsImages\\3063\\193348438_1163033080872399_3211073326961275931_n.jpg"
+    },
+    {
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\productsImages\\3064\\pngaaa.com-2902427.png",
+      "SourceId": "identityWithChristina",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "BasePath": "_content/identityWithChristina",
+      "RelativePath": "productsImages/3064/pngaaa.com-2902427.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\productsImages\\3064\\pngaaa.com-2902427.png"
+    },
+    {
+      "Identity": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\productsImages\\3065\\pngaaa.com-2902427.png",
+      "SourceId": "identityWithChristina",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Dot Net\\Final Project\\Repository\\Tabadol-Project-Graduation\\identityWithChristina\\identityWithChristina\\wwwroot\\",
+      "BasePath": "_content/identityWithChristina",
+      "RelativePath": "productsImages/3065/pngaaa.com-2902427.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\productsImages\\3065\\pngaaa.com-2902427.png"
     }
   ]
 }
